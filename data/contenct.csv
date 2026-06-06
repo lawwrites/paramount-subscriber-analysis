@@ -1,0 +1,101 @@
+﻿content_id,title,show_name,season_string,season_number,genre,content_type,release_date,rating,network_origin,language,avg_episode_length_min,total_episodes,is_original,critic_score,audience_score
+CNT00001,Are You The One? - Season 1,Are You The One?,Season 1,1,Reality,Series,2019-05-21,TV-14,MTV,English,44,13,FALSE,64.4,88
+CNT00002, are you the one? -- Season 2,Are You The One? -- Season 2,,2,Reality,Series,2024-10-06,TV-14,MTV,English,44,11,FALSE,79.8,61.2
+CNT00003,Billions - Season 1,Billions,Season 1,1,Drama,Series,2020-04-29,TV-MA,Showtime,English,60,12,TRUE,80.3,81.3
+CNT00004,BILLIONS - Season 2,Billions,Season 2,2,Drama,Series,2024-11-28,TV-MA,Showtime,English,60,13,TRUE,77.9,68.4
+CNT00005,Criminal Minds - Season 1,Criminal Minds,Season 1,1,Procedural,Series,2021-01-04,TV-14,CBS,English,44,19,FALSE,84.3,72.9
+CNT00006,Criminal Minds — season 2,Criminal Minds,Season 2,2,Procedural,Series,2020-04-20,TV-14,CBS,English,44,20,FALSE,59.3,74.4
+CNT00007,Criminal Minds-Season 3,Criminal Minds-Season 3,,3,Procedural,Series,2021-06-26,TV-14,CBS,English,44,22,FALSE,66.1,61.7
+CNT00008,Criminal Minds — Season 4,Criminal Minds,Season 4,4,Procedural,Series,2022-10-02,TV-14,CBS,English,44,18,FALSE,95.9,74.4
+CNT00009, Criminal Minds — Season 5,Criminal Minds,Season 5,5,Procedural,Series,2023-05-31,TV-14,CBS,English,44,22,FALSE,92.2,73.7
+CNT00010,criminal minds — Season 6,Criminal Minds,Season 6,6,Procedural,Series,2020-02-05,TV-14,CBS,English,44,18,FALSE,82.8,89.4
+CNT00011,Dexter - Season 1,Dexter,Season 1,1,Drama,Series,2020-02-21,TV-MA,Showtime,English,60,11,TRUE,66.7,84.2
+CNT00012,Dexter- Season 2,Dexter- Season 2,,2,Drama,Series,2021-03-25,TV-MA,Showtime,English,60,10,TRUE,69.9,85.5
+CNT00013,Elsbeth - Season 1,Elsbeth,Season 1,1,Procedural,Series,2023-11-22,TV-14,CBS,English,44,19,FALSE,77.4,69.3
+CNT00014,Elsbeth — Season 2,Elsbeth,Season 2,2,Procedural,Series,2022-07-14,TV-14,CBS,English,44,20,FALSE,96.6,84.3
+CNT00015,Evil - Season 1,Evil,Season 1,1,Drama,Series,2020-06-15,TV-MA,CBS,English,60,8,FALSE,64.6,61.2
+CNT00016,evil — Season 2,Evil,Season 2,2,Drama,Series,2021-07-25,TV-MA,CBS,English,60,10,FALSE,57.8,94.7
+CNT00017,Evil –Season 3,Evil –Season 3,,3,Drama,Series,2023-06-11,TV-MA,CBS,English,60,9,FALSE,82.5,75
+CNT00018,Evil — Season 4,Evil,Season 4,4,Drama,Series,2024-08-22,TV-MA,CBS,English,60,9,FALSE,66.1,69.4
+CNT00019, Evil — season 5,Evil,Season 5,5,Drama,Series,2023-10-03,TV-MA,CBS,English,60,10,FALSE,86.4,76.3
+CNT00020,EVIL — Season 6,Evil,Season 6,6,Drama,Series,2023-07-24,TV-MA,CBS,English,60,10,FALSE,64.2,97.9
+CNT00021,Fire Country - Season 1,Fire Country,Season 1,1,Drama,Series,2022-02-16,TV-14,CBS,English,60,8,FALSE,91.2,65.8
+CNT00022,Fire Country — Season 2,Fire Country,Season 2,2,Drama,Series,2020-08-04,TV-14,CBS,English,60,12,FALSE,57.7,74.5
+CNT00023,fire country — Season 3,Fire Country,Season 3,3,Drama,Series,2022-09-28,TV-14,CBS,English,60,10,FALSE,95.8,92.7
+CNT00024,Fire Country-Season 4,Fire Country-Season 4,,4,Drama,Series,2019-02-28,TV-14,CBS,English,60,13,FALSE,92.2,88.5
+CNT00025, Fire Country — Season 5,Fire Country,Season 5,5,Drama,Series,2024-06-23,TV-14,CBS,English,60,8,FALSE,67.3,66
+CNT00026,Fire Country — season 6,Fire Country,Season 6,6,Drama,Series,2019-05-15,TV-14,CBS,English,60,12,FALSE,87,79.3
+CNT00027,Ghosts - Season 1,Ghosts,Season 1,1,Comedy,Series,2024-06-01,TV-PG,CBS,English,30,21,FALSE,80.6,65.8
+CNT00028,GHOSTS — Season 2,Ghosts,Season 2,2,Comedy,Series,2020-10-03,TV-PG,CBS,English,30,21,FALSE,93.6,82.8
+CNT00029,Landman - Season 1,Landman,Season 1,1,Drama,Series,2019-02-27,TV-MA,Paramount+,English,60,10,TRUE,91.9,91.6
+CNT00030,Landman — Season 2,Landman,Season 2,2,Drama,Series,2021-05-03,TV-MA,Paramount+,English,60,8,TRUE,65.1,81.6
+CNT00031, landman — Season 3,Landman,Season 3,3,Drama,Series,2019-02-13,TV-MA,Paramount+,English,60,13,TRUE,75.4,62.6
+CNT00032,Landman-Season 4,Landman-Season 4,,4,Drama,Series,2023-03-06,TV-MA,Paramount+,English,60,9,TRUE,82.7,96
+CNT00033,Landman — Season 5,Landman,Season 5,5,Drama,Series,2020-05-15,TV-MA,Paramount+,English,60,12,TRUE,91.6,76.1
+CNT00034,lioness -SEASON 1,Lioness -Season 1,,1,Thriller,Series,2023-04-13,TV-MA,Paramount+,English,60,10,TRUE,68.1,97.8
+CNT00035,Lioness - Season 1,Lioness,Season 1,2,Thriller,Series,2024-07-10,TV-MA,Paramount+,English,60,9,TRUE,92.8,77.2
+CNT00036,Lioness — season 2,Lioness,Season 2,3,Thriller,Series,2020-04-25,TV-MA,Paramount+,English,60,8,TRUE,69.2,82.4
+CNT00037,LIONESS — Season 3,Lioness,Season 3,1,Procedural,Series,2023-04-23,TV-14,CBS,English,44,18,FALSE,58,84
+CNT00038,Matlock - Season 1,Matlock,Season 1,2,Procedural,Series,2020-02-04,TV-14,CBS,English,44,18,FALSE,91.1,62.7
+CNT00039,Matlock — Season 2,Matlock,Season 2,3,Procedural,Series,2020-05-22,TV-14,CBS,English,44,21,FALSE,64,65
+CNT00040,matlock — Season 3,Matlock,Season 3,1,Drama,Series,2023-08-31,TV-MA,Paramount+,English,60,9,TRUE,88,90.7
+CNT00041,Mayor of Kingstown,Mayor Of Kingstown,,2,Drama,Series,2020-02-18,TV-MA,Paramount+,English,60,8,TRUE,82.7,73.5
+CNT00042,Mayor Of Kingstown — Season 2,Mayor Of Kingstown,Season 2,3,Drama,Series,2022-08-28,TV-MA,Paramount+,English,60,13,TRUE,57.3,84.8
+CNT00043,mayor of kingstown — Season 3,Mayor Of Kingstown,Season 3,4,Drama,Series,2024-02-20,TV-MA,Paramount+,English,60,8,TRUE,71.9,72.9
+CNT00044,Mayor of Kingstown-Season 4,Mayor Of Kingstown-Season 4,,5,Drama,Series,2019-05-08,TV-MA,Paramount+,English,60,9,TRUE,63,77
+CNT00045, Mayor of Kingstown — Season 5,Mayor Of Kingstown,Season 5,6,Drama,Series,2022-04-04,TV-MA,Paramount+,English,60,10,TRUE,74.4,93.2
+CNT00046,MAYOR OF KINGSTOWN — Season 6,Mayor Of Kingstown,Season 6,1,Procedural,Series,2022-10-09,TV-14,CBS,English,44,18,FALSE,57.1,98
+CNT00047,NCIS: Sydney - Season 1,Ncis: Sydney,Season 1,2,Procedural,Series,2019-02-17,TV-14,CBS,English,44,19,FALSE,62,78.5
+CNT00048,Ncis: Sydney — Season 2,Ncis: Sydney,Season 2,1,Animation,Series,2022-01-31,TV-Y,Nickelodeon,English,22,30,FALSE,70.9,97.4
+CNT00049,PAW Patrol - Season 1,Paw Patrol,Season 1,2,Animation,Series,2021-08-21,TV-Y,Nickelodeon,English,22,38,FALSE,72.8,96.4
+CNT00050,PAW patrol — Season 2,Paw Patrol,Season 2,3,Animation,Series,2023-09-07,TV-Y,Nickelodeon,English,22,29,FALSE,63,68.3
+CNT00051, PAW Patrol — season 3,Paw Patrol,Season 3,1,Thriller,Series,2023-10-05,TV-MA,Paramount+,English,60,8,TRUE,86.4,62.2
+CNT00052,Rabbit Hole - Season 1,Rabbit Hole,Season 1,2,Thriller,Series,2023-09-02,TV-MA,Paramount+,English,60,10,TRUE,93.6,80.2
+CNT00053,rabbit hole — Season 2,Rabbit Hole,Season 2,1,Drama,Series,2023-02-11,TV-14,Paramount+,English,60,9,TRUE,57.9,62.6
+CNT00054,School Spirits,School Spirits,,2,Drama,Series,2020-07-25,TV-14,Paramount+,English,60,8,TRUE,94.5,81.6
+CNT00055,School Spirits — Season 2,School Spirits,Season 2,1,Drama,Series,2023-01-21,TV-14,CBS,English,60,12,FALSE,58.4,85
+CNT00056,,#VALUE!,,2,Drama,Series,2023-09-25,TV-14,CBS,English,60,10,FALSE,94.3,67.8
+CNT00057,SEAL Team - Season 1,Seal Team,Season 1,3,Drama,Series,2024-06-09,TV-14,CBS,English,60,9,FALSE,66.2,65
+CNT00058,Seal Team — Season 2,Seal Team,Season 2,4,Drama,Series,2024-06-02,TV-14,CBS,English,60,11,FALSE,68.3,88.6
+CNT00059,seal team — Season 3,Seal Team,Season 3,5,Drama,Series,2019-01-05,TV-14,CBS,English,60,11,FALSE,81.1,81.4
+CNT00060,SEAL Team-Season 4,Seal Team-Season 4,,6,Drama,Series,2019-02-07,TV-14,CBS,English,60,12,FALSE,64,70.1
+CNT00061, SEAL Team — Season 5,Seal Team,Season 5,1,Drama,Series,2019-05-06,TV-14,Paramount+,English,60,10,TRUE,67,76.7
+CNT00062,SEAL Team — season 6,Seal Team,Season 6,2,Drama,Series,2023-06-04,TV-14,Paramount+,English,60,12,TRUE,96.3,90.7
+CNT00063,Skymed - Season 1,Skymed,Season 1,3,Drama,Series,2023-01-05,TV-14,Paramount+,English,60,13,TRUE,89.3,71.4
+CNT00064,SKYMED — Season 2,Skymed,Season 2,4,Drama,Series,2024-02-23,TV-14,Paramount+,English,60,9,TRUE,66.1,93.8
+CNT00065,Skymed — season 3,Skymed,Season 3,1,SciFi,Series,2020-05-19,TV-PG,Paramount+,English,60,12,TRUE,80.4,87.3
+CNT00066,Skymed-Season 4,Skymed-Season 4,,2,SciFi,Series,2020-11-20,TV-PG,Paramount+,English,60,12,TRUE,76.2,69.5
+CNT00067,Star Trek: Strange New Worlds,Star Trek: Strange New Worlds,,3,SciFi,Series,2019-02-17,TV-PG,Paramount+,English,60,13,TRUE,89.8,61.7
+CNT00068,star trek: strange new worlds — Season 2,Star Trek: Strange New Worlds,Season 2,4,SciFi,Series,2021-03-08,TV-PG,Paramount+,English,60,12,TRUE,61.8,76.8
+CNT00069,Star Trek: Strange New Worlds — Season 3,Star Trek: Strange New Worlds,Season 3,5,SciFi,Series,2024-08-06,TV-PG,Paramount+,English,60,10,TRUE,59.7,95.9
+CNT00070,Star Trek: Strange New Worlds-Season 4,Star Trek: Strange New Worlds-Season 4,,6,SciFi,Series,2024-03-17,TV-PG,Paramount+,English,60,10,TRUE,90.1,82.1
+CNT00071, Star Trek: Strange New Worlds — Season 5,Star Trek: Strange New Worlds,Season 5,1,Thriller,Series,2022-03-07,TV-MA,Showtime,English,60,8,TRUE,67.9,94.2
+CNT00072,STAR TREK: STRANGE NEW WORLDS — Season 6,Star Trek: Strange New Worlds,Season 6,2,Thriller,Series,2019-07-03,TV-MA,Showtime,English,60,8,TRUE,83.6,85.3
+CNT00073,The Agency - Season 1,The Agency,Season 1,3,Thriller,Series,2021-10-14,TV-MA,Showtime,English,60,9,TRUE,95.9,88.5
+CNT00074,The agency — Season 2,The Agency,Season 2,1,Drama,Series,2020-03-31,TV-MA,Showtime,English,60,11,TRUE,56,88
+CNT00075,THE AGENCY — Season 3,The Agency,Season 3,2,Drama,Series,2021-07-30,TV-MA,Showtime,English,60,13,TRUE,91.3,90.8
+CNT00076,The Chi - Season 1,The Chi,Season 1,3,Drama,Series,2021-03-23,TV-MA,Showtime,English,60,13,TRUE,59.5,93.1
+CNT00077,the chi — Season 2,The Chi,Season 2,1,Drama,Series,2020-04-12,TV-MA,Paramount+,English,60,11,TRUE,69.7,91.2
+CNT00078,The Chi — season 3,The Chi,Season 3,2,Drama,Series,2020-04-24,TV-MA,Paramount+,English,60,8,TRUE,82.7,75.1
+CNT00079,The Good Fight,The Good Fight,,3,Drama,Series,2021-02-05,TV-MA,Paramount+,English,60,10,TRUE,69.7,79.4
+CNT00080,The Good fight — Season 2,The Good Fight,Season 2,4,Drama,Series,2024-10-01,TV-MA,Paramount+,English,60,10,TRUE,94.4,64.4
+CNT00081,THE GOOD FIGHT — Season 3,The Good Fight,Season 3,5,Drama,Series,2021-04-02,TV-MA,Paramount+,English,60,12,TRUE,95.4,70.1
+CNT00082,The Good Fight-Season 4,The Good Fight-Season 4,,1,Drama,Series,2023-08-11,TV-MA,Paramount+,English,60,10,TRUE,85.6,71.9
+CNT00083, The Good Fight — Season 5,The Good Fight,Season 5,2,Drama,Series,2023-09-19,TV-MA,Paramount+,English,60,8,TRUE,71.2,81.9
+CNT00084,The Offer - Season 1,The Offer,Season 1,1,Drama,Series,2019-08-12,TV-14,CBS,English,60,8,FALSE,76.8,90.6
+CNT00085,the offer — Season 2,The Offer,Season 2,2,Drama,Series,2024-04-10,TV-14,CBS,English,60,10,FALSE,73.1,96.1
+CNT00086,Tracker - Season 1,Tracker,Season 1,3,Drama,Series,2021-11-16,TV-14,CBS,English,60,10,FALSE,82.9,64.7
+CNT00087,Tracker — season 2,Tracker,Season 2,4,Drama,Series,2021-09-17,TV-14,CBS,English,60,10,FALSE,83,72.4
+CNT00088,TRACKER — Season 3,Tracker,Season 3,1,Drama,Series,2023-03-07,TV-MA,Paramount+,English,60,9,TRUE,72.7,95.7
+CNT00089,Tracker-Season 4,Tracker-Season 4,,2,Drama,Series,2024-03-30,TV-MA,Paramount+,English,60,12,TRUE,78.9,75.4
+CNT00090,Tulsa King - Season 1,Tulsa King,Season 1,3,Drama,Series,2019-06-05,TV-MA,Paramount+,English,60,10,TRUE,63.8,89.9
+CNT00091,tulsa king — Season 2,Tulsa King,Season 2,4,Drama,Series,2023-06-14,TV-MA,Paramount+,English,60,11,TRUE,73.6,85.7
+CNT00092,Tulsa King — Season 3,Tulsa King,Season 3,1,Procedural,Series,2022-03-28,TV-14,CBS,English,44,18,FALSE,66.9,85.2
+CNT00093, TULSA KING — Season 4,Tulsa King,Season 4,2,Procedural,Series,2023-06-21,TV-14,CBS,English,44,18,FALSE,89.4,88.5
+CNT00094,Watson - Season 1,Watson,Season 1,3,Procedural,Series,2024-06-07,TV-14,CBS,English,44,19,FALSE,88.9,65.6
+CNT00095,Watson — season 2,Watson,Season 2,4,Procedural,Series,2019-05-06,TV-14,CBS,English,44,21,FALSE,80.7,89.2
+CNT00096,WATSON — Season 3,Watson,Season 3,5,Procedural,Series,2022-08-01,TV-14,CBS,English,44,22,FALSE,63.2,86.5
+CNT00097,Watson-Season 4,Watson-Season 4,,6,Procedural,Series,2022-07-24,TV-14,CBS,English,44,19,FALSE,61.2,86.1
+CNT00098, watson — Season 5,Watson,Season 5,1,Drama,Series,2022-04-23,TV-MA,Paramount+,English,60,9,TRUE,88.8,86.4
+CNT00099,Watson — Season 6,Watson,Season 6,2,Drama,Series,2022-01-26,TV-MA,Paramount+,English,60,12,TRUE,65.5,92.2
+CNT00100,Yellow Jackets - Season 1,Yellow Jackets,Season 1,1,Thriller,Series,2020-08-25,TV-MA,Showtime,English,60,10,TRUE,77.3,81.2

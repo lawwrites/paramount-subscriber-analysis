@@ -1,0 +1,401 @@
+﻿campaign_id,campaign_name,channel,start_date,end_date
+1,Prime Time Promo,Digital,4/25/23,5/3/23
+2,Spring Campaign,Radio,5/23/23,7/16/23
+3,Retargeting Splash,TV,7/12/24,7/24/24
+4,Oscar Boost,OOH,4/6/23,4/26/23
+5,Super Bowl Run,Radio,1/28/23,3/11/23
+6,Oscar Surge,OOH,7/12/24,8/14/24
+7,Summer Sprint,Digital,10/12/23,12/9/23
+8,Prime Time Push,Digital,3/8/24,4/5/24
+9,Winter Drive,TV,12/11/23,12/24/23
+10,Prime Time Sprint,TV,1/3/24,2/1/24
+11,Spring Drive,TV,4/15/24,5/26/24
+12,Relaunch Blast,Digital,7/19/24,8/13/24
+13,Oscar Sprint,Social,3/13/23,3/22/23
+14,Spring Drive,Social,3/23/23,4/13/23
+15,Relaunch Push,Social,4/9/24,5/26/24
+16,Prime Time Run,Radio,12/30/23,1/19/24
+17,Back to School Boost,Radio,3/15/23,4/29/23
+18,Loyalty Drive,Social,9/8/23,9/25/23
+19,Launch Storm,TV,7/24/24,8/14/24
+20,Fall Sprint,Social,8/23/23,10/21/23
+21,Winter Promo,OOH,2/15/24,3/10/24
+22,Seasonal Drive,Radio,11/19/23,12/9/23
+23,Prime Time Push,Digital,4/14/24,4/30/24
+24,Prime Time Run,OOH,7/28/24,9/7/24
+25,Awareness Wave,Digital,3/14/24,4/27/24
+26,Seasonal Frenzy,TV,5/22/23,6/30/23
+27,Back to School Sprint,Radio,4/23/23,5/9/23
+28,Winter Drive,Streaming,3/8/24,4/22/24
+29,Flash Blitz,OOH,9/2/24,10/8/24
+30,Spring Campaign,OOH,1/12/23,3/3/23
+31,Launch Frenzy,Social,10/1/23,11/26/23
+32,Loyalty Splash,Radio,3/21/24,4/7/24
+33,Back to School Boost,TV,9/27/23,11/5/23
+34,Flash Blast,Digital,11/2/23,1/1/24
+35,Back to School Boost,OOH,6/6/23,7/6/23
+36,Launch Surge,TV,1/1/23,2/15/23
+37,Weekend Promo,TV,4/25/23,5/25/23
+38,Winter Frenzy,Radio,9/4/23,10/17/23
+39,Winter Sprint,OOH,5/12/24,7/10/24
+40,Seasonal Boost,Digital,5/9/23,5/24/23
+41,Retargeting Promo,OOH,9/29/23,11/8/23
+42,Weekend Drive,Radio,7/25/23,9/15/23
+43,Flash Surge,TV,1/18/24,2/22/24
+44,Winter Wave,TV,9/11/23,10/2/23
+45,Oscar Blast,Digital,8/25/24,10/6/24
+46,Fall Promo,TV,1/8/23,1/19/23
+47,Winter Boost,Digital,2/2/23,3/2/23
+48,Seasonal Promo,OOH,10/13/23,12/1/23
+49,Seasonal Promo,Streaming,5/16/23,7/8/23
+50,Spring Frenzy,Radio,2/21/24,3/11/24
+51,Retargeting Drive,Streaming,3/17/24,4/15/24
+52,Spring Splash,Streaming,2/25/23,4/16/23
+53,Spring Promo,Digital,12/14/23,2/10/24
+54,Loyalty Push,Streaming,7/14/23,8/24/23
+55,Loyalty Promo,TV,7/7/23,7/31/23
+56,Grand Frenzy,TV,3/29/24,5/26/24
+57,Summer Frenzy,Digital,7/7/24,9/5/24
+58,Seasonal Surge,Digital,6/20/23,7/23/23
+59,Back to School Drive,TV,2/15/24,2/25/24
+60,Loyalty Blitz,Streaming,2/4/24,2/27/24
+61,Seasonal Push,Digital,7/23/24,9/10/24
+62,Fall Blast,Radio,10/31/23,11/20/23
+63,Launch Splash,TV,7/9/24,7/19/24
+64,Flash Storm,OOH,8/21/24,9/27/24
+65,Flash Frenzy,Digital,6/11/23,6/21/23
+66,Winter Campaign,Digital,3/12/23,4/26/23
+67,Oscar Blast,OOH,2/18/24,3/3/24
+68,Winter Drive,Radio,2/10/23,3/28/23
+69,Flash Wave,Social,8/20/24,10/2/24
+70,Launch Promo,Social,7/29/23,9/16/23
+71,Weekend Surge,Social,2/10/24,2/25/24
+72,Loyalty Blast,OOH,3/16/23,3/23/23
+73,Grand Promo,OOH,4/13/23,4/24/23
+74,Relaunch Frenzy,Digital,9/29/23,10/14/23
+75,Back to School Surge,OOH,1/14/24,2/8/24
+76,Flash Splash,Radio,11/6/23,12/22/23
+77,Spring Push,Social,7/21/24,8/16/24
+78,Grand Push,Social,4/29/23,5/12/23
+79,Super Bowl Run,Social,10/16/23,11/30/23
+80,Prime Time Boost,Streaming,7/28/23,9/16/23
+81,Winter Campaign,Streaming,9/15/23,9/25/23
+82,Summer Wave,Digital,10/11/23,10/20/23
+83,Loyalty Boost,Radio,9/26/23,10/13/23
+84,Summer Frenzy,TV,3/13/24,4/24/24
+85,Fall Storm,Social,6/2/23,7/13/23
+86,Holiday Drive,Digital,8/19/24,9/30/24
+87,Relaunch Sprint,TV,2/12/23,3/10/23
+88,Oscar Campaign,TV,1/2/24,1/22/24
+89,Grand Storm,Streaming,12/29/23,2/23/24
+90,Holiday Promo,Digital,9/27/24,11/20/24
+91,Summer Push,Radio,7/1/23,8/3/23
+92,Retargeting Sprint,Radio,12/7/23,2/2/24
+93,Back to School Sprint,Radio,9/12/23,10/6/23
+94,Fall Storm,Streaming,4/21/23,5/22/23
+95,Loyalty Wave,Social,8/16/23,9/4/23
+96,Summer Campaign,Digital,8/22/23,9/12/23
+97,Prime Time Storm,TV,2/13/24,3/12/24
+98,Flash Drive,Radio,10/13/23,11/11/23
+99,Summer Frenzy,Social,7/3/24,7/31/24
+100,Prime Time Splash,TV,7/2/23,8/15/23
+101,Relaunch Run,Social,9/2/24,10/6/24
+102,Flash Frenzy,Streaming,3/22/24,5/6/24
+103,Prime Time Splash,Radio,8/13/24,9/1/24
+104,Flash Sprint,OOH,3/22/24,3/29/24
+105,Retargeting Frenzy,Radio,7/21/23,8/20/23
+106,Launch Campaign,TV,12/5/23,1/20/24
+107,Weekend Campaign,Streaming,11/4/23,12/13/23
+108,Weekend Boost,Digital,12/1/23,1/2/24
+109,Awareness Campaign,Radio,7/16/23,8/18/23
+110,Weekend Drive,OOH,6/28/23,8/13/23
+111,Weekend Promo,Streaming,1/1/23,1/27/23
+112,Launch Surge,Streaming,8/16/24,9/30/24
+113,Super Bowl Boost,Streaming,3/28/24,5/17/24
+114,Winter Blitz,OOH,6/23/23,8/11/23
+115,Winter Storm,Digital,9/26/24,10/24/24
+116,Super Bowl Push,TV,11/14/23,12/5/23
+117,Seasonal Blast,TV,2/17/23,3/11/23
+118,Super Bowl Run,Radio,4/11/24,5/14/24
+119,Awareness Promo,Digital,1/29/24,3/7/24
+120,Spring Sprint,Streaming,1/6/23,3/2/23
+121,Flash Surge,TV,8/13/23,8/31/23
+122,Spring Surge,Digital,7/24/24,8/15/24
+123,Flash Boost,OOH,4/20/24,6/8/24
+124,Loyalty Blast,Radio,11/21/23,1/15/24
+125,Grand Surge,Digital,5/31/24,7/4/24
+126,Prime Time Sprint,Digital,5/1/24,6/5/24
+127,Flash Surge,Radio,10/11/23,12/6/23
+128,Loyalty Frenzy,Radio,9/2/23,9/26/23
+129,Prime Time Wave,Social,10/20/23,11/11/23
+130,Holiday Push,Digital,7/7/24,7/19/24
+131,Holiday Run,Digital,1/28/24,3/19/24
+132,Retargeting Wave,OOH,3/7/23,4/9/23
+133,Fall Promo,Streaming,4/22/24,5/25/24
+134,Summer Storm,OOH,2/3/24,3/30/24
+135,Summer Wave,Social,1/25/24,3/2/24
+136,Retargeting Boost,Radio,2/4/24,4/4/24
+137,Oscar Surge,Digital,7/13/24,9/9/24
+138,Seasonal Splash,Streaming,10/7/23,11/10/23
+139,Awareness Run,Digital,12/11/23,1/29/24
+140,Grand Splash,Streaming,4/23/24,5/8/24
+141,Summer Frenzy,Radio,8/29/24,10/11/24
+142,Loyalty Push,TV,3/14/24,3/29/24
+143,Launch Promo,Streaming,9/24/23,10/25/23
+144,Awareness Blitz,Streaming,12/1/23,12/29/23
+145,Winter Surge,TV,9/16/23,11/15/23
+146,Relaunch Promo,Radio,7/6/24,7/16/24
+147,Fall Sprint,TV,3/12/23,5/7/23
+148,Summer Blast,Digital,9/11/23,9/30/23
+149,Seasonal Campaign,TV,9/2/23,9/17/23
+150,Loyalty Run,Social,7/31/24,8/20/24
+151,Spring Sprint,Digital,1/13/24,1/30/24
+152,Summer Blitz,OOH,11/15/23,11/28/23
+153,Super Bowl Frenzy,OOH,1/20/24,2/21/24
+154,Weekend Storm,Radio,9/6/23,9/19/23
+155,Spring Sprint,OOH,9/6/24,11/3/24
+156,Grand Drive,Radio,2/12/23,3/13/23
+157,Flash Campaign,Social,1/15/24,1/26/24
+158,Seasonal Frenzy,Streaming,1/13/23,2/15/23
+159,Loyalty Run,Digital,1/6/24,2/22/24
+160,Flash Campaign,Social,3/21/24,4/8/24
+161,Grand Sprint,Streaming,9/22/24,11/19/24
+162,Prime Time Wave,Digital,4/21/24,5/25/24
+163,Loyalty Promo,Streaming,3/30/23,4/23/23
+164,Awareness Wave,TV,8/6/24,9/21/24
+165,Back to School Surge,Digital,5/21/24,6/17/24
+166,Prime Time Wave,Social,12/30/23,2/26/24
+167,Prime Time Boost,TV,9/2/24,10/23/24
+168,Winter Promo,Radio,6/13/24,7/2/24
+169,Grand Sprint,Digital,2/21/24,3/30/24
+170,Seasonal Surge,TV,5/2/24,6/19/24
+171,Oscar Drive,Radio,4/6/23,5/1/23
+172,Relaunch Surge,OOH,9/7/23,10/3/23
+173,Retargeting Run,OOH,6/27/24,7/26/24
+174,Loyalty Blitz,Social,12/5/23,1/3/24
+175,Spring Run,Digital,9/15/23,10/6/23
+176,Grand Sprint,Radio,11/20/23,12/4/23
+177,Super Bowl Run,Streaming,7/9/23,7/28/23
+178,Flash Blast,Social,10/11/23,12/3/23
+179,Super Bowl Blitz,Digital,4/13/23,6/12/23
+180,Weekend Splash,Radio,1/5/24,1/23/24
+181,Prime Time Splash,TV,6/30/24,7/15/24
+182,Holiday Campaign,Streaming,7/20/24,8/14/24
+183,Weekend Surge,Streaming,4/16/23,4/23/23
+184,Back to School Splash,Social,3/27/24,4/24/24
+185,Winter Drive,Streaming,5/4/24,5/18/24
+186,Fall Push,Digital,3/17/23,4/29/23
+187,Winter Promo,TV,7/30/24,8/25/24
+188,Retargeting Blast,OOH,7/25/24,9/18/24
+189,Flash Drive,Streaming,9/25/24,10/16/24
+190,Retargeting Blitz,OOH,3/29/24,4/24/24
+191,Spring Sprint,Digital,9/27/24,10/7/24
+192,Winter Push,Digital,8/5/23,8/28/23
+193,Winter Push,TV,6/27/23,8/8/23
+194,Seasonal Blitz,TV,2/23/24,3/29/24
+195,Weekend Run,Streaming,8/26/23,9/20/23
+196,Oscar Blitz,Radio,3/14/23,5/3/23
+197,Super Bowl Drive,TV,8/26/24,10/14/24
+198,Holiday Blitz,Digital,7/11/24,8/1/24
+199,Back to School Sprint,Social,3/15/23,3/25/23
+200,Weekend Surge,TV,9/1/24,10/25/24
+201,Weekend Run,Streaming,4/24/24,6/14/24
+202,Grand Surge,Streaming,10/6/23,11/14/23
+203,Fall Drive,Radio,3/24/23,5/8/23
+204,Prime Time Splash,TV,11/27/23,1/11/24
+205,Summer Sprint,Radio,8/23/23,10/12/23
+206,Fall Sprint,Digital,10/3/23,11/15/23
+207,Loyalty Blitz,Digital,4/26/24,6/5/24
+208,Seasonal Frenzy,Streaming,8/22/24,9/25/24
+209,Launch Wave,Radio,12/23/23,1/25/24
+210,Launch Drive,Radio,4/18/23,5/5/23
+211,Awareness Storm,OOH,5/22/24,6/16/24
+212,Winter Wave,Social,2/7/23,3/15/23
+213,Awareness Storm,OOH,11/28/23,12/12/23
+214,Grand Surge,Streaming,1/2/23,2/20/23
+215,Flash Wave,OOH,2/25/23,3/16/23
+216,Loyalty Sprint,TV,5/25/24,7/11/24
+217,Grand Push,Social,7/28/23,8/21/23
+218,Seasonal Frenzy,TV,3/24/24,5/14/24
+219,Oscar Run,Digital,9/15/24,11/12/24
+220,Summer Boost,Streaming,11/15/23,12/27/23
+221,Spring Surge,TV,4/6/23,4/27/23
+222,Weekend Boost,Radio,6/7/23,7/15/23
+223,Seasonal Surge,Digital,10/7/23,11/9/23
+224,Holiday Drive,Digital,4/12/24,5/24/24
+225,Holiday Storm,TV,9/5/24,10/14/24
+226,Retargeting Wave,OOH,10/10/23,12/5/23
+227,Summer Blitz,Radio,10/1/23,11/29/23
+228,Seasonal Storm,Digital,11/2/23,1/1/24
+229,Seasonal Wave,Social,4/2/24,5/13/24
+230,Grand Drive,Streaming,7/19/24,9/12/24
+231,Oscar Blast,Streaming,11/26/23,12/15/23
+232,Retargeting Splash,Social,8/28/23,10/23/23
+233,Awareness Drive,Radio,4/29/24,6/20/24
+234,Fall Push,OOH,6/5/23,7/13/23
+235,Spring Storm,Streaming,8/27/24,9/24/24
+236,Loyalty Splash,Radio,4/13/23,5/23/23
+237,Holiday Frenzy,Streaming,5/28/23,6/30/23
+238,Awareness Campaign,TV,9/29/23,10/27/23
+239,Grand Drive,Social,12/3/23,1/22/24
+240,Fall Blast,TV,5/14/24,6/24/24
+241,Weekend Promo,Radio,8/29/23,10/15/23
+242,Spring Sprint,Radio,4/3/23,5/7/23
+243,Back to School Run,Social,4/13/23,5/18/23
+244,Launch Sprint,TV,1/30/23,2/8/23
+245,Relaunch Drive,Digital,10/28/23,11/26/23
+246,Retargeting Blast,Radio,9/8/23,10/18/23
+247,Back to School Frenzy,OOH,7/4/23,7/21/23
+248,Oscar Surge,OOH,1/27/24,3/13/24
+249,Loyalty Campaign,Social,5/27/23,6/17/23
+250,Summer Sprint,Streaming,4/15/24,5/8/24
+251,Grand Push,TV,10/22/23,12/11/23
+252,Weekend Campaign,Streaming,3/28/24,4/26/24
+253,Weekend Promo,Streaming,9/14/23,10/20/23
+254,Oscar Drive,OOH,5/9/24,5/22/24
+255,Weekend Run,Social,1/3/24,2/15/24
+256,Awareness Blitz,TV,1/23/23,3/24/23
+257,Fall Blast,Radio,8/2/24,9/21/24
+258,Weekend Sprint,Digital,5/23/24,7/22/24
+259,Relaunch Promo,Radio,9/13/24,11/10/24
+260,Prime Time Campaign,Radio,7/14/23,8/29/23
+261,Spring Campaign,Radio,5/21/23,7/7/23
+262,Loyalty Splash,OOH,2/10/23,3/8/23
+263,Holiday Frenzy,Social,1/9/24,3/2/24
+264,Retargeting Push,Digital,12/1/23,1/24/24
+265,Grand Wave,OOH,5/16/23,7/12/23
+266,Back to School Blitz,Streaming,5/28/24,6/21/24
+267,Launch Sprint,TV,10/30/23,12/23/23
+268,Holiday Sprint,Digital,4/24/24,5/5/24
+269,Grand Wave,TV,2/11/24,4/9/24
+270,Prime Time Boost,TV,2/9/24,2/16/24
+271,Prime Time Blast,Streaming,4/10/24,5/10/24
+272,Oscar Surge,TV,1/16/24,1/29/24
+273,Launch Blast,Digital,9/26/24,11/7/24
+274,Loyalty Run,Social,3/6/23,4/22/23
+275,Holiday Splash,TV,2/23/24,3/8/24
+276,Spring Frenzy,Digital,11/8/23,12/16/23
+277,Awareness Surge,Social,7/4/24,7/19/24
+278,Holiday Drive,Radio,7/7/24,8/9/24
+279,Seasonal Blast,Streaming,4/12/23,6/11/23
+280,Relaunch Promo,Streaming,10/14/23,10/23/23
+281,Relaunch Frenzy,Radio,3/31/24,4/22/24
+282,Relaunch Splash,Streaming,1/12/24,2/22/24
+283,Spring Storm,Streaming,10/10/23,10/29/23
+284,Super Bowl Campaign,Radio,4/4/23,5/23/23
+285,Fall Sprint,Social,9/3/24,9/11/24
+286,Super Bowl Frenzy,OOH,9/7/23,9/22/23
+287,Super Bowl Storm,Digital,8/1/23,9/14/23
+288,Holiday Sprint,OOH,12/3/23,1/28/24
+289,Holiday Push,OOH,1/3/23,1/27/23
+290,Back to School Frenzy,Radio,9/14/23,11/11/23
+291,Summer Wave,Digital,1/27/23,2/11/23
+292,Summer Push,Social,8/25/24,9/21/24
+293,Retargeting Boost,TV,2/23/23,3/10/23
+294,Loyalty Sprint,Social,3/7/23,4/13/23
+295,Spring Surge,OOH,6/9/24,7/23/24
+296,Fall Run,Radio,8/15/23,9/30/23
+297,Loyalty Campaign,TV,6/17/24,7/13/24
+298,Awareness Drive,Radio,3/4/23,4/10/23
+299,Loyalty Frenzy,TV,4/21/23,5/29/23
+300,Holiday Frenzy,Digital,11/26/23,1/10/24
+301,Grand Run,Social,10/9/23,11/24/23
+302,Flash Blitz,Streaming,1/26/24,3/11/24
+303,Retargeting Frenzy,Radio,6/1/24,7/16/24
+304,Grand Run,Digital,4/28/23,6/15/23
+305,Oscar Drive,Social,3/16/24,4/20/24
+306,Retargeting Run,TV,4/9/24,5/11/24
+307,Launch Campaign,Social,11/17/23,12/21/23
+308,Seasonal Frenzy,TV,1/19/24,2/4/24
+309,Retargeting Frenzy,Radio,3/29/23,4/10/23
+310,Holiday Boost,TV,1/17/24,3/15/24
+311,Grand Wave,Radio,8/23/24,10/4/24
+312,Relaunch Storm,Radio,5/6/23,6/8/23
+313,Fall Blitz,OOH,3/9/24,5/1/24
+314,Spring Blast,OOH,11/16/23,12/15/23
+315,Seasonal Promo,TV,8/6/23,8/22/23
+316,Relaunch Frenzy,Social,12/25/23,2/5/24
+317,Retargeting Storm,OOH,8/10/24,8/31/24
+318,Grand Splash,OOH,9/28/24,11/13/24
+319,Back to School Blitz,Radio,10/1/23,10/9/23
+320,Relaunch Splash,Digital,11/13/23,12/11/23
+321,Awareness Frenzy,Digital,5/27/23,7/9/23
+322,Flash Promo,Streaming,2/1/23,2/13/23
+323,Launch Push,Social,3/5/24,4/10/24
+324,Launch Sprint,OOH,11/16/23,1/8/24
+325,Fall Push,Digital,9/2/24,9/14/24
+326,Winter Blitz,Streaming,9/24/24,10/4/24
+327,Loyalty Drive,Social,3/10/24,4/17/24
+328,Flash Frenzy,Social,8/9/23,10/3/23
+329,Weekend Campaign,Radio,3/16/24,3/30/24
+330,Flash Campaign,Social,8/30/24,10/7/24
+331,Awareness Blast,TV,2/16/23,3/9/23
+332,Weekend Promo,Digital,1/8/23,1/28/23
+333,Launch Frenzy,TV,9/19/23,10/14/23
+334,Retargeting Push,Digital,5/24/24,7/17/24
+335,Oscar Boost,OOH,1/25/24,3/6/24
+336,Awareness Storm,Radio,12/29/23,1/9/24
+337,Summer Surge,TV,2/13/23,3/19/23
+338,Retargeting Blast,Streaming,11/17/23,12/30/23
+339,Spring Drive,TV,3/3/24,3/28/24
+340,Loyalty Storm,Radio,11/29/23,12/16/23
+341,Retargeting Storm,TV,1/6/24,1/18/24
+342,Awareness Boost,TV,9/7/23,10/11/23
+343,Launch Promo,Social,2/10/24,3/7/24
+344,Flash Campaign,TV,6/22/23,7/3/23
+345,Super Bowl Sprint,Social,6/27/24,8/5/24
+346,Holiday Promo,TV,12/26/23,2/17/24
+347,Super Bowl Push,OOH,5/30/23,6/22/23
+348,Winter Push,Radio,6/6/23,7/31/23
+349,Loyalty Campaign,OOH,5/20/24,6/25/24
+350,Launch Push,Streaming,10/1/24,10/28/24
+351,Loyalty Campaign,Social,3/11/23,4/17/23
+352,Fall Wave,OOH,10/9/23,11/22/23
+353,Loyalty Surge,TV,3/17/23,4/12/23
+354,Weekend Frenzy,Radio,2/28/23,3/30/23
+355,Flash Drive,Streaming,4/3/23,5/19/23
+356,Fall Surge,OOH,8/17/24,9/28/24
+357,Seasonal Boost,Digital,7/12/23,8/8/23
+358,Spring Sprint,Social,3/5/23,4/9/23
+359,Back to School Splash,Digital,3/28/23,5/6/23
+360,Flash Boost,OOH,3/24/24,4/28/24
+361,Relaunch Blitz,Streaming,6/12/23,7/12/23
+362,Launch Campaign,OOH,2/23/24,4/19/24
+363,Launch Frenzy,Social,2/23/23,4/21/23
+364,Awareness Blitz,Social,4/7/23,5/19/23
+365,Launch Frenzy,OOH,9/9/24,9/25/24
+366,Weekend Campaign,Radio,5/25/23,6/23/23
+367,Winter Blitz,OOH,2/6/24,2/21/24
+368,Launch Storm,Digital,1/21/24,3/9/24
+369,Retargeting Boost,Social,6/23/24,7/5/24
+370,Weekend Push,Digital,1/19/23,2/18/23
+371,Seasonal Promo,Digital,12/16/23,2/10/24
+372,Winter Blitz,TV,5/21/23,6/6/23
+373,Grand Storm,Radio,6/3/24,7/29/24
+374,Launch Sprint,OOH,6/23/24,7/2/24
+375,Awareness Push,Digital,5/15/23,6/29/23
+376,Back to School Run,Streaming,7/5/23,9/3/23
+377,Relaunch Campaign,Radio,2/14/23,3/19/23
+378,Weekend Sprint,Radio,9/1/23,10/6/23
+379,Grand Promo,Social,4/4/24,4/25/24
+380,Super Bowl Wave,Radio,4/25/24,6/24/24
+381,Loyalty Sprint,Social,8/7/24,9/11/24
+382,Flash Drive,Digital,1/27/24,3/6/24
+383,Holiday Storm,Social,7/24/23,9/20/23
+384,Seasonal Storm,Social,2/23/23,4/12/23
+385,Flash Storm,TV,7/21/24,8/3/24
+386,Back to School Blitz,Streaming,10/19/23,10/31/23
+387,Retargeting Frenzy,Digital,6/9/24,6/25/24
+388,Summer Drive,TV,4/6/24,5/5/24
+389,Relaunch Promo,Streaming,2/10/24,3/20/24
+390,Oscar Splash,Social,3/25/23,4/24/23
+391,Launch Sprint,Digital,4/12/23,6/11/23
+392,Weekend Storm,Streaming,5/21/23,5/30/23
+393,Seasonal Surge,OOH,5/23/23,7/17/23
+394,Summer Blitz,Digital,1/6/23,1/18/23
+395,Flash Drive,TV,6/3/23,7/15/23
+396,Weekend Frenzy,TV,10/23/23,11/14/23
+397,Loyalty Frenzy,TV,9/2/23,10/5/23
+398,Grand Splash,Radio,5/26/24,7/10/24
+399,Oscar Run,Digital,6/11/24,7/24/24
+400,Summer Blast,Social,10/26/23,11/29/23

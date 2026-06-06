@@ -1,0 +1,701 @@
+﻿subscriber_id,signup_date,plan,country,acquisition_channel,primary_device,age_group,preferred_genre,lifecycle_stage,churn_date,monthly_spend_usd,nps_score,is_bundled,has_showtime_add_on,Segment
+SUB00001,6/6/22,Paramount+ with Showtime,UK,Partner Bundle,Desktop,35-44,Animation,Churned,9/9/22,$11.99,,FALSE,TRUE,Standard
+SUB00002,2/3/23,Essential,AU,App Store,Mobile,55,Drama,Reactivated,,$5.99,,FALSE,FALSE,Standard
+SUB00003,5/23/24,Annual,US,App Store,Smart TV,35-44,Drama,Reactivated,,$9.99,1,FALSE,FALSE,Standard
+SUB00004,12/11/22,Essential,MX,Paid Social,Roku,35-44,Drama,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00005,8/30/23,Essential,AU,Paid Social,Desktop,18-24,Drama,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00006,12/2/22,Paramount+ with Showtime,AU,Email Campaign,Desktop,35-44,Drama,Active,,$11.99,8,TRUE,TRUE,High Value
+SUB00007,2/7/24,Essential,US,TV Ad,Fire TV,35-44,Drama,Active,,$5.99,4,TRUE,FALSE,Standard
+SUB00008,5/9/24,Essential,US,App Store,Fire TV,25-34,Drama,New,,$5.99,4,FALSE,FALSE,Standard
+SUB00009,12/18/23,Essential,US,TV Ad,Smart TV,35-44,Thriller,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00010,11/16/22,Paramount+ with Showtime,US,Organic Search,Roku,35-44,Drama,At-Risk,,$11.99,4,TRUE,TRUE,Flag
+SUB00011,12/15/23,Annual,US,Email Campaign,Roku,25-34,Animation,Churned,6/15/24,$9.99,2,FALSE,FALSE,Standard
+SUB00012,1/13/22,Essential,AU,Email Campaign,Fire TV,45-54,Drama,Churned,6/3/24,$5.99,3,FALSE,FALSE,Standard
+SUB00013,6/30/22,Annual,MX,App Store,Desktop,35-44,Drama,Churned,5/26/24,$9.99,5,FALSE,FALSE,Standard
+SUB00014,5/22/24,Paramount+ with Showtime,MX,Paid Social,Desktop,18-24,SciFi,Active,,$11.99,7,FALSE,TRUE,High Value
+SUB00015,1/30/22,Essential,MX,Paid Social,Tablet,35-44,Procedural,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00016,6/20/24,Annual,US,Partner Bundle,Smart TV,35-44,Procedural,At-Risk,,$9.99,,FALSE,FALSE,Flag
+SUB00017,5/16/23,Paramount+ with Showtime,MX,App Store,Mobile,25-34,Procedural,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00018,12/10/23,Annual,UK,App Store,Roku,55,Drama,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00019,12/27/22,Paramount+ with Showtime,US,Organic Search,Fire TV,35-44,Drama,Churned,10/30/23,$11.99,,TRUE,TRUE,Standard
+SUB00020,7/16/22,Paramount+ with Showtime,CA,Organic Search,Smart TV,45-54,Thriller,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00021,11/6/22,Essential,CA,Organic Search,Mobile,45-54,Drama,New,,$5.99,,TRUE,FALSE,Standard
+SUB00022,10/16/23,Essential,US,Partner Bundle,Tablet,45-54,Drama,Reactivated,,$5.99,6,TRUE,FALSE,Standard
+SUB00023,2/22/22,Essential,US,App Store,Desktop,45-54,Procedural,Active,,$5.99,1,TRUE,FALSE,Standard
+SUB00024,6/2/22,Essential,US,Partner Bundle,Desktop,18-24,Thriller,Churned,5/9/23,$5.99,10,TRUE,FALSE,Standard
+SUB00025,3/5/24,Paramount+ with Showtime,CA,TV Ad,Roku,45-54,Animation,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00026,9/17/23,Essential,US,Email Campaign,Fire TV,18-24,Procedural,Winback,,$5.99,,TRUE,FALSE,Standard
+SUB00027,7/20/23,Paramount+ with Showtime,MX,Referral,Roku,18-24,Drama,New,,$11.99,,TRUE,TRUE,Standard
+SUB00028,10/23/22,Essential,CA,TV Ad,Fire TV,18-24,SciFi,Churned,2/29/24,$5.99,4,FALSE,FALSE,Standard
+SUB00029,4/28/22,Essential,CA,TV Ad,Smart TV,55,Procedural,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00030,9/2/23,Essential,MX,Referral,Tablet,45-54,Drama,Churned,2/26/24,$5.99,5,FALSE,FALSE,Standard
+SUB00031,3/25/23,Paramount+ with Showtime,UK,Partner Bundle,Tablet,18-24,Reality,New,,$11.99,,TRUE,TRUE,Standard
+SUB00032,2/23/24,Annual,US,TV Ad,Smart TV,35-44,Drama,At-Risk,,$9.99,8,FALSE,FALSE,Flag
+SUB00033,7/5/22,Paramount+ with Showtime,US,App Store,Tablet,45-54,Animation,Winback,,$11.99,,TRUE,TRUE,Standard
+SUB00034,5/28/24,Paramount+ with Showtime,CA,Referral,Desktop,35-44,Drama,Active,,$11.99,1,FALSE,TRUE,High Value
+SUB00035,4/1/22,Essential,AU,TV Ad,Roku,35-44,Drama,Active,,$5.99,9,FALSE,FALSE,Standard
+SUB00036,2/28/23,Paramount+ with Showtime,MX,Referral,Desktop,45-54,Drama,New,,$11.99,,FALSE,TRUE,Standard
+SUB00037,7/17/23,Paramount+ with Showtime,MX,Organic Search,Mobile,35-44,Drama,Active,,$11.99,4,TRUE,TRUE,High Value
+SUB00038,11/15/22,Paramount+ with Showtime,US,Paid Social,Mobile,45-54,Thriller,At-Risk,,$11.99,3,FALSE,TRUE,Flag
+SUB00039,1/4/24,Paramount+ with Showtime,AU,TV Ad,Desktop,55,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00040,1/28/23,Annual,US,TV Ad,Mobile,55,Drama,Active,,$9.99,7,FALSE,FALSE,Standard
+SUB00041,3/17/24,Paramount+ with Showtime,CA,TV Ad,Roku,18-24,SciFi,Active,,$11.99,8,TRUE,TRUE,High Value
+SUB00042,4/3/23,Paramount+ with Showtime,AU,App Store,Tablet,35-44,Thriller,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00043,8/9/23,Essential,UK,Referral,Desktop,35-44,Drama,Active,,$5.99,7,FALSE,FALSE,Standard
+SUB00044,11/11/23,Paramount+ with Showtime,US,Paid Social,Roku,25-34,SciFi,Churned,5/25/24,$11.99,,TRUE,TRUE,Standard
+SUB00045,6/14/24,Annual,MX,Organic Search,Fire TV,18-24,Procedural,Churned,7/14/24,$9.99,3,TRUE,FALSE,Standard
+SUB00046,4/26/23,Annual,AU,Referral,Mobile,35-44,Thriller,Churned,10/8/23,$9.99,,FALSE,FALSE,Standard
+SUB00047,11/21/22,Annual,US,Partner Bundle,Mobile,45-54,Comedy,At-Risk,,$9.99,5,TRUE,FALSE,Flag
+SUB00048,2/4/24,Essential,MX,Paid Social,Fire TV,18-24,Thriller,New,,$5.99,1,FALSE,FALSE,Standard
+SUB00049,3/26/24,Paramount+ with Showtime,AU,Paid Social,Smart TV,35-44,Drama,New,,$11.99,3,TRUE,TRUE,Standard
+SUB00050,6/29/22,Annual,US,App Store,Roku,35-44,Procedural,New,,$9.99,,FALSE,FALSE,Standard
+SUB00051,4/16/23,Paramount+ with Showtime,CA,Referral,Roku,18-24,Drama,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00052,8/25/23,Paramount+ with Showtime,MX,TV Ad,Tablet,45-54,Drama,Active,,$11.99,8,TRUE,TRUE,High Value
+SUB00053,8/31/22,Annual,CA,Referral,Tablet,35-44,Reality,Active,,$9.99,7,FALSE,FALSE,Standard
+SUB00054,1/9/22,Essential,MX,TV Ad,Tablet,55,Drama,At-Risk,,$5.99,10,FALSE,FALSE,Flag
+SUB00055,8/13/22,Paramount+ with Showtime,US,Referral,Mobile,55,Drama,At-Risk,,$11.99,1,FALSE,TRUE,Flag
+SUB00056,3/18/24,Paramount+ with Showtime,US,Organic Search,Tablet,55,Procedural,Active,,$11.99,3,TRUE,TRUE,High Value
+SUB00057,5/16/22,Annual,CA,TV Ad,Smart TV,45-54,Drama,Churned,6/24/23,$9.99,8,FALSE,FALSE,Standard
+SUB00058,2/4/24,Paramount+ with Showtime,US,Paid Social,Smart TV,25-34,Thriller,Reactivated,,$11.99,7,FALSE,TRUE,Standard
+SUB00059,4/3/22,Annual,US,App Store,Tablet,25-34,Drama,Churned,5/17/22,$9.99,5,FALSE,FALSE,Standard
+SUB00060,4/22/24,Essential,US,App Store,Mobile,35-44,Thriller,At-Risk,,$5.99,9,FALSE,FALSE,Flag
+SUB00061,9/17/23,Paramount+ with Showtime,CA,Referral,Desktop,18-24,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00062,11/8/22,Essential,US,Partner Bundle,Smart TV,25-34,Procedural,Winback,,$5.99,9,FALSE,FALSE,Standard
+SUB00063,8/25/23,Essential,MX,Partner Bundle,Desktop,35-44,Drama,Churned,12/12/23,$5.99,,FALSE,FALSE,Standard
+SUB00064,8/11/22,Paramount+ with Showtime,US,Referral,Tablet,25-34,Drama,Active,,$11.99,6,TRUE,TRUE,High Value
+SUB00065,2/12/23,Paramount+ with Showtime,US,Referral,Smart TV,25-34,Drama,Active,,$11.99,1,TRUE,TRUE,High Value
+SUB00066,3/16/24,Annual,US,Organic Search,Roku,25-34,Drama,Active,,$9.99,4,FALSE,FALSE,Standard
+SUB00067,3/3/24,Essential,CA,TV Ad,Smart TV,55,Procedural,Active,,$5.99,3,TRUE,FALSE,Standard
+SUB00068,11/8/23,Essential,UK,TV Ad,Smart TV,25-34,SciFi,Reactivated,,$5.99,,TRUE,FALSE,Standard
+SUB00069,9/29/22,Paramount+ with Showtime,US,Referral,Mobile,55,Drama,New,,$11.99,6,TRUE,TRUE,Standard
+SUB00070,4/8/23,Essential,CA,App Store,Fire TV,55,Reality,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00071,5/17/24,Essential,MX,Referral,Desktop,55,Procedural,Active,,$5.99,6,TRUE,FALSE,Standard
+SUB00072,3/9/22,Annual,UK,App Store,Roku,55,Drama,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00073,4/12/22,Annual,US,App Store,Desktop,55,Drama,Churned,9/6/22,$9.99,,FALSE,FALSE,Standard
+SUB00074,4/27/24,Essential,UK,App Store,Tablet,35-44,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00075,12/5/23,Essential,US,Organic Search,Desktop,18-24,Drama,Reactivated,,$5.99,6,TRUE,FALSE,Standard
+SUB00076,7/24/23,Annual,UK,Referral,Mobile,45-54,Animation,New,,$9.99,,FALSE,FALSE,Standard
+SUB00077,6/7/24,Paramount+ with Showtime,CA,Email Campaign,Mobile,18-24,SciFi,Reactivated,,$11.99,3,FALSE,TRUE,Standard
+SUB00078,8/18/22,Paramount+ with Showtime,US,TV Ad,Tablet,45-54,SciFi,Churned,9/10/23,$11.99,,FALSE,TRUE,Standard
+SUB00079,5/15/24,Annual,US,Partner Bundle,Fire TV,55,Drama,At-Risk,,$9.99,1,TRUE,FALSE,Flag
+SUB00080,10/7/22,Paramount+ with Showtime,US,Paid Social,Smart TV,35-44,SciFi,Churned,9/18/23,$11.99,2,TRUE,TRUE,Standard
+SUB00081,1/29/24,Essential,US,App Store,Desktop,18-24,Thriller,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00082,11/16/22,Essential,US,TV Ad,Roku,18-24,Drama,Churned,3/12/23,$5.99,5,FALSE,FALSE,Standard
+SUB00083,11/9/23,Paramount+ with Showtime,AU,Email Campaign,Smart TV,55,Drama,Active,,$11.99,6,FALSE,TRUE,High Value
+SUB00084,4/24/22,Annual,MX,Partner Bundle,Fire TV,55,Thriller,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00085,9/6/23,Paramount+ with Showtime,US,TV Ad,Smart TV,25-34,Drama,New,,$11.99,,FALSE,TRUE,Standard
+SUB00086,5/3/22,Paramount+ with Showtime,US,Paid Social,Desktop,55,Drama,New,,$11.99,9,FALSE,TRUE,Standard
+SUB00087,3/15/22,Essential,AU,Organic Search,Desktop,55,Procedural,Active,,$5.99,10,FALSE,FALSE,Standard
+SUB00088,8/11/23,Paramount+ with Showtime,CA,Organic Search,Desktop,55,Reality,Active,,$11.99,3,FALSE,TRUE,High Value
+SUB00089,5/1/24,Essential,AU,TV Ad,Mobile,35-44,Comedy,At-Risk,,$5.99,7,TRUE,FALSE,Flag
+SUB00090,2/10/23,Paramount+ with Showtime,US,Email Campaign,Smart TV,55,Procedural,Reactivated,,$11.99,2,TRUE,TRUE,Standard
+SUB00091,3/5/24,Essential,US,Organic Search,Smart TV,55,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00092,2/18/24,Paramount+ with Showtime,MX,TV Ad,Roku,25-34,Drama,Churned,3/28/24,$11.99,10,FALSE,TRUE,Standard
+SUB00093,6/3/24,Essential,MX,Organic Search,Desktop,35-44,Thriller,Winback,,$5.99,5,TRUE,FALSE,Standard
+SUB00094,12/27/22,Paramount+ with Showtime,MX,Organic Search,Mobile,35-44,Drama,Active,,$11.99,2,TRUE,TRUE,High Value
+SUB00095,9/22/23,Paramount+ with Showtime,US,App Store,Roku,35-44,Drama,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00096,5/29/23,Paramount+ with Showtime,US,TV Ad,Tablet,18-24,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00097,2/10/22,Paramount+ with Showtime,US,Email Campaign,Tablet,45-54,Thriller,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00098,11/27/23,Paramount+ with Showtime,US,Email Campaign,Mobile,55,Drama,At-Risk,,$11.99,5,FALSE,TRUE,Flag
+SUB00099,1/12/24,Essential,UK,Organic Search,Roku,55,Drama,Reactivated,,$5.99,,FALSE,FALSE,Standard
+SUB00100,11/14/22,Paramount+ with Showtime,US,Partner Bundle,Fire TV,55,Procedural,Winback,,$11.99,,FALSE,TRUE,Standard
+SUB00101,10/21/23,Annual,US,Referral,Fire TV,25-34,Animation,Churned,6/15/24,$9.99,1,FALSE,FALSE,Standard
+SUB00102,11/13/22,Paramount+ with Showtime,MX,Paid Social,Smart TV,25-34,Procedural,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00103,5/14/24,Annual,US,Referral,Tablet,45-54,Drama,Churned,6/29/24,$9.99,3,FALSE,FALSE,Standard
+SUB00104,6/7/22,Annual,US,Referral,Desktop,55,Drama,Active,,$9.99,4,FALSE,FALSE,Standard
+SUB00105,9/18/23,Paramount+ with Showtime,US,Partner Bundle,Smart TV,55,Thriller,Active,,$11.99,8,TRUE,TRUE,High Value
+SUB00106,1/12/23,Paramount+ with Showtime,MX,TV Ad,Tablet,45-54,Drama,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00107,6/15/22,Paramount+ with Showtime,US,Referral,Desktop,25-34,Thriller,Churned,3/25/24,$11.99,,TRUE,TRUE,Standard
+SUB00108,12/30/23,Essential,US,Email Campaign,Desktop,35-44,Drama,Churned,2/29/24,$5.99,7,TRUE,FALSE,Standard
+SUB00109,8/16/22,Paramount+ with Showtime,US,App Store,Roku,18-24,Drama,Churned,9/7/23,$11.99,,TRUE,TRUE,Standard
+SUB00110,1/19/23,Essential,UK,TV Ad,Smart TV,35-44,Procedural,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00111,12/14/23,Annual,US,Organic Search,Mobile,45-54,Drama,Churned,5/12/24,$9.99,,TRUE,FALSE,Standard
+SUB00112,7/16/23,Annual,AU,Organic Search,Tablet,55,Comedy,Reactivated,,$9.99,,TRUE,FALSE,Standard
+SUB00113,9/2/22,Paramount+ with Showtime,US,Organic Search,Desktop,55,Thriller,Active,,$11.99,9,TRUE,TRUE,High Value
+SUB00114,1/6/24,Essential,UK,Paid Social,Roku,45-54,Animation,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00115,6/21/23,Annual,US,App Store,Desktop,18-24,Drama,Winback,,$9.99,6,FALSE,FALSE,Standard
+SUB00116,2/5/24,Paramount+ with Showtime,US,Referral,Fire TV,18-24,Drama,New,,$11.99,,FALSE,TRUE,Standard
+SUB00117,5/17/22,Paramount+ with Showtime,US,TV Ad,Fire TV,45-54,Thriller,New,,$11.99,8,TRUE,TRUE,Standard
+SUB00118,4/10/24,Paramount+ with Showtime,US,Email Campaign,Smart TV,55,Drama,Active,,$11.99,1,FALSE,TRUE,High Value
+SUB00119,11/14/22,Paramount+ with Showtime,CA,Organic Search,Fire TV,45-54,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00120,6/5/24,Essential,UK,App Store,Desktop,35-44,Drama,At-Risk,,$5.99,7,FALSE,FALSE,Flag
+SUB00121,7/11/22,Paramount+ with Showtime,CA,TV Ad,Mobile,45-54,Drama,Active,,$11.99,7,TRUE,TRUE,High Value
+SUB00122,7/13/23,Essential,UK,Referral,Tablet,18-24,Thriller,Active,,$5.99,7,TRUE,FALSE,Standard
+SUB00123,12/8/23,Essential,UK,Partner Bundle,Desktop,45-54,Drama,Active,,$5.99,1,TRUE,FALSE,Standard
+SUB00124,11/19/23,Annual,US,Organic Search,Smart TV,35-44,Thriller,At-Risk,,$9.99,8,TRUE,FALSE,Flag
+SUB00125,5/10/22,Paramount+ with Showtime,UK,App Store,Roku,55,Drama,New,,$11.99,8,FALSE,TRUE,Standard
+SUB00126,1/16/23,Annual,US,Partner Bundle,Tablet,18-24,Procedural,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00127,9/13/22,Essential,MX,Partner Bundle,Desktop,18-24,Drama,Winback,,$5.99,,FALSE,FALSE,Standard
+SUB00128,12/22/23,Paramount+ with Showtime,MX,Paid Social,Mobile,55,Procedural,Active,,$11.99,8,TRUE,TRUE,High Value
+SUB00129,1/1/24,Paramount+ with Showtime,UK,Referral,Mobile,18-24,Drama,Active,,$11.99,5,TRUE,TRUE,High Value
+SUB00130,12/30/23,Annual,US,Organic Search,Smart TV,35-44,Procedural,Churned,3/13/24,$9.99,,FALSE,FALSE,Standard
+SUB00131,1/27/22,Paramount+ with Showtime,MX,TV Ad,Roku,45-54,Procedural,Active,,$11.99,2,TRUE,TRUE,High Value
+SUB00132,11/13/22,Paramount+ with Showtime,AU,TV Ad,Desktop,55,Drama,Active,,$11.99,3,FALSE,TRUE,High Value
+SUB00133,10/20/23,Annual,UK,Paid Social,Roku,45-54,Drama,New,,$9.99,3,FALSE,FALSE,Standard
+SUB00134,5/30/23,Essential,US,Email Campaign,Smart TV,18-24,Drama,Reactivated,,$5.99,,TRUE,FALSE,Standard
+SUB00135,12/21/22,Paramount+ with Showtime,US,Email Campaign,Smart TV,45-54,Drama,Reactivated,,$11.99,5,TRUE,TRUE,Standard
+SUB00136,10/3/23,Essential,US,Partner Bundle,Roku,45-54,Procedural,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00137,5/12/24,Essential,US,Organic Search,Fire TV,18-24,Drama,Reactivated,,$5.99,4,FALSE,FALSE,Standard
+SUB00138,9/25/23,Annual,CA,Referral,Tablet,45-54,Drama,At-Risk,,$9.99,,FALSE,FALSE,Flag
+SUB00139,11/1/22,Essential,US,App Store,Desktop,55,Drama,Active,,$5.99,6,TRUE,FALSE,Standard
+SUB00140,11/17/22,Paramount+ with Showtime,AU,Paid Social,Tablet,35-44,Drama,Reactivated,,$11.99,6,TRUE,TRUE,Standard
+SUB00141,4/23/23,Essential,US,Organic Search,Mobile,45-54,Thriller,Active,,$5.99,10,FALSE,FALSE,Standard
+SUB00142,9/12/22,Paramount+ with Showtime,UK,Paid Social,Smart TV,25-34,Drama,Winback,,$11.99,8,FALSE,TRUE,Standard
+SUB00143,6/19/24,Essential,AU,Partner Bundle,Desktop,18-24,Comedy,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00144,2/19/22,Annual,MX,Email Campaign,Roku,45-54,Reality,New,,$9.99,7,TRUE,FALSE,Standard
+SUB00145,6/22/24,Paramount+ with Showtime,UK,Organic Search,Desktop,35-44,Drama,Active,,$11.99,4,FALSE,TRUE,High Value
+SUB00146,7/21/23,Annual,MX,TV Ad,Roku,35-44,Drama,Active,,$9.99,10,TRUE,FALSE,Standard
+SUB00147,5/12/22,Paramount+ with Showtime,UK,Partner Bundle,Tablet,35-44,Drama,Winback,,$11.99,,FALSE,TRUE,Standard
+SUB00148,5/28/23,Essential,UK,TV Ad,Desktop,18-24,Drama,New,,$5.99,10,TRUE,FALSE,Standard
+SUB00149,12/2/22,Essential,AU,Partner Bundle,Fire TV,35-44,Drama,Reactivated,,$5.99,,FALSE,FALSE,Standard
+SUB00150,6/4/23,Annual,CA,App Store,Mobile,45-54,Drama,Churned,4/1/24,$9.99,,TRUE,FALSE,Standard
+SUB00151,3/3/23,Essential,MX,Email Campaign,Fire TV,55,Procedural,At-Risk,,$5.99,10,TRUE,FALSE,Flag
+SUB00152,1/9/24,Essential,AU,Paid Social,Fire TV,45-54,Comedy,New,,$5.99,,TRUE,FALSE,Standard
+SUB00153,7/15/22,Paramount+ with Showtime,US,App Store,Fire TV,35-44,Drama,New,,$11.99,10,FALSE,TRUE,Standard
+SUB00154,6/12/24,Essential,US,Partner Bundle,Smart TV,55,Drama,Churned,7/12/24,$5.99,,FALSE,FALSE,Standard
+SUB00155,6/23/23,Paramount+ with Showtime,UK,Partner Bundle,Tablet,25-34,Drama,Active,,$11.99,5,FALSE,TRUE,High Value
+SUB00156,7/16/22,Annual,CA,Paid Social,Tablet,35-44,Drama,Winback,,$9.99,,TRUE,FALSE,Standard
+SUB00157,12/8/23,Paramount+ with Showtime,CA,Email Campaign,Mobile,45-54,SciFi,Churned,3/28/24,$11.99,7,FALSE,TRUE,Standard
+SUB00158,4/18/24,Paramount+ with Showtime,US,Email Campaign,Fire TV,25-34,Procedural,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00159,11/3/23,Essential,US,TV Ad,Roku,45-54,Drama,Active,,$5.99,5,TRUE,FALSE,Standard
+SUB00160,4/22/22,Essential,US,Organic Search,Fire TV,55,Drama,At-Risk,,$5.99,4,TRUE,FALSE,Flag
+SUB00161,4/13/22,Paramount+ with Showtime,US,Referral,Smart TV,55,Reality,Active,,$11.99,3,FALSE,TRUE,High Value
+SUB00162,10/31/23,Paramount+ with Showtime,US,TV Ad,Tablet,45-54,Procedural,Reactivated,,$11.99,,TRUE,TRUE,Standard
+SUB00163,2/27/24,Essential,US,Paid Social,Desktop,45-54,Drama,New,,$5.99,1,FALSE,FALSE,Standard
+SUB00164,3/17/24,Paramount+ with Showtime,US,Organic Search,Tablet,55,SciFi,Active,,$11.99,6,FALSE,TRUE,High Value
+SUB00165,4/11/23,Annual,MX,Paid Social,Roku,45-54,Thriller,Winback,,$9.99,,TRUE,FALSE,Standard
+SUB00166,12/5/22,Paramount+ with Showtime,US,Organic Search,Fire TV,45-54,Procedural,Active,,$11.99,10,TRUE,TRUE,High Value
+SUB00167,6/29/22,Paramount+ with Showtime,AU,Partner Bundle,Tablet,55,Procedural,At-Risk,,$11.99,2,TRUE,TRUE,Flag
+SUB00168,5/24/22,Essential,CA,App Store,Smart TV,25-34,Thriller,Active,,$5.99,6,FALSE,FALSE,Standard
+SUB00169,8/20/23,Paramount+ with Showtime,US,Organic Search,Fire TV,25-34,Drama,Churned,9/24/23,$11.99,3,FALSE,TRUE,Standard
+SUB00170,12/4/23,Paramount+ with Showtime,US,Referral,Tablet,55,Drama,Active,,$11.99,4,TRUE,TRUE,High Value
+SUB00171,5/5/23,Annual,UK,App Store,Fire TV,55,Drama,Active,,$9.99,9,TRUE,FALSE,Standard
+SUB00172,2/20/24,Essential,MX,Partner Bundle,Fire TV,55,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00173,3/5/22,Annual,US,Paid Social,Tablet,25-34,Thriller,Churned,9/3/23,$9.99,2,TRUE,FALSE,Standard
+SUB00174,1/5/24,Annual,MX,TV Ad,Mobile,18-24,Thriller,At-Risk,,$9.99,,FALSE,FALSE,Flag
+SUB00175,4/13/23,Paramount+ with Showtime,CA,Referral,Mobile,45-54,Procedural,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00176,2/3/24,Essential,AU,Email Campaign,Fire TV,18-24,Procedural,Active,,$5.99,1,TRUE,FALSE,Standard
+SUB00177,4/29/23,Essential,US,TV Ad,Fire TV,35-44,Drama,New,,$5.99,7,FALSE,FALSE,Standard
+SUB00178,1/27/23,Paramount+ with Showtime,US,Referral,Fire TV,35-44,Thriller,Active,,$11.99,6,TRUE,TRUE,High Value
+SUB00179,7/2/22,Annual,US,Referral,Smart TV,35-44,Drama,Winback,,$9.99,,TRUE,FALSE,Standard
+SUB00180,11/2/22,Annual,AU,Partner Bundle,Desktop,55,Drama,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00181,12/21/22,Essential,US,TV Ad,Fire TV,25-34,Animation,Active,,$5.99,1,TRUE,FALSE,Standard
+SUB00182,7/31/22,Essential,MX,Partner Bundle,Fire TV,55,Drama,New,,$5.99,4,TRUE,FALSE,Standard
+SUB00183,2/16/23,Essential,US,Paid Social,Roku,45-54,Thriller,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00184,8/15/23,Paramount+ with Showtime,US,Email Campaign,Smart TV,55,Drama,At-Risk,,$11.99,7,FALSE,TRUE,Flag
+SUB00185,10/9/22,Essential,AU,Partner Bundle,Desktop,55,Drama,New,,$5.99,7,FALSE,FALSE,Standard
+SUB00186,12/15/23,Paramount+ with Showtime,AU,Paid Social,Roku,25-34,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00187,11/4/22,Paramount+ with Showtime,US,Partner Bundle,Desktop,25-34,Animation,Reactivated,,$11.99,3,FALSE,TRUE,Standard
+SUB00188,9/6/22,Essential,MX,TV Ad,Tablet,35-44,Procedural,Active,,$5.99,4,TRUE,FALSE,Standard
+SUB00189,10/2/22,Annual,US,TV Ad,Mobile,55,Drama,Active,,$9.99,10,TRUE,FALSE,Standard
+SUB00190,5/6/23,Paramount+ with Showtime,US,Paid Social,Smart TV,35-44,Drama,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00191,9/6/22,Essential,AU,Paid Social,Roku,55,Procedural,At-Risk,,$5.99,7,FALSE,FALSE,Flag
+SUB00192,7/1/23,Paramount+ with Showtime,UK,Partner Bundle,Desktop,35-44,Thriller,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00193,2/19/24,Paramount+ with Showtime,AU,Organic Search,Roku,35-44,Thriller,Churned,4/15/24,$11.99,,TRUE,TRUE,Standard
+SUB00194,1/17/22,Annual,AU,Email Campaign,Smart TV,55,Drama,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00195,8/7/23,Paramount+ with Showtime,CA,TV Ad,Desktop,45-54,Drama,Churned,5/18/24,$11.99,8,FALSE,TRUE,Standard
+SUB00196,6/22/22,Essential,MX,Paid Social,Roku,25-34,Drama,Churned,7/17/23,$5.99,9,TRUE,FALSE,Standard
+SUB00197,5/9/24,Essential,AU,Paid Social,Fire TV,18-24,Comedy,Churned,6/29/24,$5.99,,TRUE,FALSE,Standard
+SUB00198,1/10/22,Paramount+ with Showtime,US,Partner Bundle,Fire TV,45-54,Drama,Active,,$11.99,8,FALSE,TRUE,High Value
+SUB00199,1/17/22,Paramount+ with Showtime,US,Organic Search,Roku,45-54,Drama,New,,$11.99,,FALSE,TRUE,Standard
+SUB00200,1/18/22,Paramount+ with Showtime,US,Organic Search,Mobile,55,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00201,9/27/23,Paramount+ with Showtime,AU,Organic Search,Tablet,35-44,Procedural,Active,,$11.99,4,TRUE,TRUE,High Value
+SUB00202,11/4/22,Essential,US,App Store,Desktop,18-24,Procedural,At-Risk,,$5.99,1,TRUE,FALSE,Flag
+SUB00203,12/21/23,Paramount+ with Showtime,UK,Partner Bundle,Mobile,45-54,Drama,Active,,$11.99,1,TRUE,TRUE,High Value
+SUB00204,8/5/22,Annual,MX,Email Campaign,Mobile,55,Procedural,Reactivated,,$9.99,5,TRUE,FALSE,Standard
+SUB00205,7/3/22,Essential,US,Partner Bundle,Smart TV,35-44,Drama,Reactivated,,$5.99,7,TRUE,FALSE,Standard
+SUB00206,11/3/22,Annual,AU,Referral,Roku,25-34,Procedural,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00207,3/20/24,Essential,UK,Organic Search,Mobile,55,Animation,Winback,,$5.99,,TRUE,FALSE,Standard
+SUB00208,12/15/22,Annual,AU,TV Ad,Tablet,55,Reality,At-Risk,,$9.99,8,FALSE,FALSE,Flag
+SUB00209,8/22/22,Paramount+ with Showtime,US,Referral,Roku,35-44,Drama,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00210,3/28/24,Essential,CA,Paid Social,Desktop,18-24,Drama,Active,,$5.99,3,FALSE,FALSE,Standard
+SUB00211,11/21/22,Essential,CA,App Store,Tablet,18-24,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00212,3/31/22,Annual,AU,Organic Search,Mobile,45-54,Procedural,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00213,9/4/23,Paramount+ with Showtime,US,Email Campaign,Desktop,35-44,Procedural,At-Risk,,$11.99,9,TRUE,TRUE,Flag
+SUB00214,8/9/23,Paramount+ with Showtime,US,Paid Social,Tablet,55,Thriller,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00215,3/6/22,Paramount+ with Showtime,CA,App Store,Mobile,35-44,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00216,1/9/24,Annual,US,App Store,Mobile,55,Procedural,At-Risk,,$9.99,,FALSE,FALSE,Flag
+SUB00217,12/7/22,Paramount+ with Showtime,UK,App Store,Fire TV,35-44,Thriller,Churned,1/30/24,$11.99,,FALSE,TRUE,Standard
+SUB00218,9/10/23,Paramount+ with Showtime,UK,Paid Social,Desktop,25-34,Procedural,Reactivated,,$11.99,,FALSE,TRUE,Standard
+SUB00219,8/13/23,Paramount+ with Showtime,AU,Email Campaign,Mobile,35-44,SciFi,Churned,2/25/24,$11.99,,TRUE,TRUE,Standard
+SUB00220,11/30/23,Paramount+ with Showtime,US,App Store,Tablet,55,Drama,Churned,1/5/24,$11.99,7,FALSE,TRUE,Standard
+SUB00221,5/23/22,Paramount+ with Showtime,US,Referral,Desktop,25-34,Procedural,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00222,9/5/23,Annual,AU,Partner Bundle,Mobile,35-44,Procedural,Active,,$9.99,9,TRUE,FALSE,Standard
+SUB00223,4/22/22,Paramount+ with Showtime,US,Referral,Roku,55,Drama,Churned,3/25/24,$11.99,7,FALSE,TRUE,Standard
+SUB00224,3/26/24,Essential,CA,Paid Social,Roku,18-24,Drama,Active,,$5.99,10,TRUE,FALSE,Standard
+SUB00225,4/2/23,Annual,US,Email Campaign,Mobile,45-54,Drama,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00226,3/29/22,Essential,UK,Email Campaign,Tablet,55,Thriller,Active,,$5.99,9,FALSE,FALSE,Standard
+SUB00227,12/23/22,Paramount+ with Showtime,UK,Organic Search,Tablet,45-54,Drama,Active,,$11.99,2,TRUE,TRUE,High Value
+SUB00228,5/19/24,Essential,US,Partner Bundle,Smart TV,18-24,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00229,4/19/23,Essential,US,Referral,Fire TV,35-44,Animation,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00230,4/6/23,Essential,US,Paid Social,Tablet,35-44,Drama,At-Risk,,$5.99,2,TRUE,FALSE,Flag
+SUB00231,3/29/24,Paramount+ with Showtime,UK,Paid Social,Desktop,25-34,Drama,Reactivated,,$11.99,,FALSE,TRUE,Standard
+SUB00232,6/25/23,Annual,AU,Partner Bundle,Desktop,35-44,SciFi,Winback,,$9.99,,FALSE,FALSE,Standard
+SUB00233,5/15/24,Paramount+ with Showtime,US,Referral,Smart TV,25-34,Procedural,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00234,4/30/22,Essential,AU,App Store,Roku,55,Procedural,Active,,$5.99,7,TRUE,FALSE,Standard
+SUB00235,5/14/23,Essential,US,App Store,Tablet,55,Procedural,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00236,9/27/23,Essential,MX,Paid Social,Smart TV,35-44,Drama,New,,$5.99,,FALSE,FALSE,Standard
+SUB00237,2/23/23,Paramount+ with Showtime,MX,Paid Social,Mobile,35-44,SciFi,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00238,10/27/22,Annual,CA,Paid Social,Desktop,25-34,SciFi,New,,$9.99,8,TRUE,FALSE,Standard
+SUB00239,8/10/23,Paramount+ with Showtime,US,TV Ad,Fire TV,45-54,Thriller,Active,,$11.99,7,TRUE,TRUE,High Value
+SUB00240,1/24/24,Essential,MX,Email Campaign,Tablet,35-44,Thriller,Churned,4/26/24,$5.99,8,TRUE,FALSE,Standard
+SUB00241,3/5/24,Annual,UK,TV Ad,Fire TV,55,Thriller,Churned,4/30/24,$9.99,3,TRUE,FALSE,Standard
+SUB00242,3/14/24,Essential,UK,Partner Bundle,Tablet,25-34,Thriller,Active,,$5.99,6,FALSE,FALSE,Standard
+SUB00243,10/24/22,Essential,US,TV Ad,Desktop,45-54,Drama,At-Risk,,$5.99,3,TRUE,FALSE,Flag
+SUB00244,9/13/22,Essential,AU,App Store,Smart TV,35-44,SciFi,Active,,$5.99,7,FALSE,FALSE,Standard
+SUB00245,4/8/23,Paramount+ with Showtime,CA,Referral,Tablet,18-24,Thriller,New,,$11.99,6,TRUE,TRUE,Standard
+SUB00246,6/8/24,Essential,MX,Referral,Fire TV,55,Drama,Churned,7/8/24,$5.99,,TRUE,FALSE,Standard
+SUB00247,3/25/24,Paramount+ with Showtime,US,App Store,Tablet,25-34,Procedural,Active,,$11.99,6,TRUE,TRUE,High Value
+SUB00248,8/3/23,Essential,US,Organic Search,Fire TV,35-44,Procedural,Reactivated,,$5.99,1,TRUE,FALSE,Standard
+SUB00249,5/28/24,Essential,AU,Paid Social,Fire TV,45-54,Procedural,Active,,$5.99,5,TRUE,FALSE,Standard
+SUB00250,6/14/24,Essential,UK,Email Campaign,Mobile,35-44,Drama,Reactivated,,$5.99,3,TRUE,FALSE,Standard
+SUB00251,2/10/23,Essential,AU,Referral,Mobile,55,Drama,At-Risk,,$5.99,,TRUE,FALSE,Flag
+SUB00252,5/4/23,Essential,MX,Organic Search,Mobile,55,Drama,New,,$5.99,,TRUE,FALSE,Standard
+SUB00253,5/30/24,Paramount+ with Showtime,US,Paid Social,Desktop,25-34,Procedural,Active,,$11.99,2,TRUE,TRUE,High Value
+SUB00254,11/17/22,Essential,AU,TV Ad,Smart TV,35-44,Drama,Active,,$5.99,3,TRUE,FALSE,Standard
+SUB00255,6/28/23,Essential,MX,Email Campaign,Fire TV,55,Drama,At-Risk,,$5.99,3,FALSE,FALSE,Flag
+SUB00256,9/23/23,Essential,US,Paid Social,Mobile,25-34,SciFi,At-Risk,,$5.99,6,FALSE,FALSE,Flag
+SUB00257,11/19/22,Essential,US,Partner Bundle,Roku,35-44,Thriller,Churned,8/29/23,$5.99,5,TRUE,FALSE,Standard
+SUB00258,5/18/24,Annual,US,Referral,Desktop,25-34,Thriller,Churned,6/21/24,$9.99,4,FALSE,FALSE,Standard
+SUB00259,1/31/23,Annual,US,Partner Bundle,Mobile,45-54,Drama,Active,,$9.99,3,FALSE,FALSE,Standard
+SUB00260,5/31/24,Paramount+ with Showtime,US,TV Ad,Desktop,35-44,Drama,Churned,6/30/24,$11.99,,TRUE,TRUE,Standard
+SUB00261,1/15/22,Essential,AU,Partner Bundle,Tablet,18-24,Drama,Active,,$5.99,7,FALSE,FALSE,Standard
+SUB00262,12/20/23,Annual,US,Email Campaign,Mobile,55,Thriller,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00263,4/7/24,Paramount+ with Showtime,US,Email Campaign,Fire TV,35-44,Animation,Active,,$11.99,4,TRUE,TRUE,High Value
+SUB00264,9/8/22,Essential,MX,Partner Bundle,Roku,45-54,Drama,New,,$5.99,,TRUE,FALSE,Standard
+SUB00265,5/3/22,Essential,US,App Store,Tablet,25-34,Drama,New,,$5.99,5,TRUE,FALSE,Standard
+SUB00266,1/16/23,Essential,US,Email Campaign,Desktop,35-44,Drama,Active,,$5.99,5,TRUE,FALSE,Standard
+SUB00267,5/24/23,Essential,MX,TV Ad,Roku,35-44,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00268,3/2/24,Essential,US,Referral,Roku,45-54,Reality,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00269,9/8/22,Paramount+ with Showtime,US,Paid Social,Mobile,35-44,Drama,New,,$11.99,7,TRUE,TRUE,Standard
+SUB00270,11/26/22,Paramount+ with Showtime,CA,TV Ad,Mobile,55,SciFi,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00271,7/3/22,Essential,AU,Organic Search,Desktop,45-54,Thriller,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00272,12/2/22,Essential,UK,Paid Social,Tablet,45-54,SciFi,New,,$5.99,10,TRUE,FALSE,Standard
+SUB00273,4/21/23,Essential,US,Paid Social,Mobile,45-54,Animation,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00274,10/14/23,Paramount+ with Showtime,US,TV Ad,Fire TV,18-24,Procedural,Churned,6/24/24,$11.99,5,TRUE,TRUE,Standard
+SUB00275,7/30/22,Paramount+ with Showtime,MX,Organic Search,Smart TV,25-34,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00276,8/26/22,Paramount+ with Showtime,UK,App Store,Fire TV,45-54,Procedural,Reactivated,,$11.99,9,TRUE,TRUE,Standard
+SUB00277,10/15/23,Annual,US,App Store,Fire TV,55,Procedural,Churned,12/3/23,$9.99,,FALSE,FALSE,Standard
+SUB00278,5/21/24,Paramount+ with Showtime,UK,App Store,Tablet,35-44,Comedy,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00279,5/20/22,Essential,US,Paid Social,Desktop,18-24,Thriller,Churned,2/7/24,$5.99,,TRUE,FALSE,Standard
+SUB00280,7/3/23,Paramount+ with Showtime,CA,App Store,Tablet,25-34,Thriller,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00281,4/6/24,Annual,US,Paid Social,Tablet,55,Procedural,At-Risk,,$9.99,,TRUE,FALSE,Flag
+SUB00282,12/31/22,Paramount+ with Showtime,CA,TV Ad,Smart TV,18-24,Reality,Active,,$11.99,8,TRUE,TRUE,High Value
+SUB00283,4/7/22,Essential,US,Organic Search,Smart TV,25-34,Procedural,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00284,1/17/23,Essential,CA,TV Ad,Mobile,55,Reality,At-Risk,,$5.99,4,FALSE,FALSE,Flag
+SUB00285,4/8/24,Essential,US,App Store,Mobile,35-44,Drama,Active,,$5.99,7,FALSE,FALSE,Standard
+SUB00286,5/24/23,Paramount+ with Showtime,US,Email Campaign,Smart TV,55,Drama,New,,$11.99,,FALSE,TRUE,Standard
+SUB00287,6/23/24,Annual,US,Referral,Tablet,55,Drama,Active,,$9.99,9,FALSE,FALSE,Standard
+SUB00288,3/4/22,Essential,AU,Paid Social,Fire TV,35-44,Drama,New,,$5.99,4,TRUE,FALSE,Standard
+SUB00289,1/27/23,Annual,MX,Email Campaign,Roku,45-54,Drama,Churned,8/28/23,$9.99,,FALSE,FALSE,Standard
+SUB00290,7/4/22,Essential,US,TV Ad,Tablet,55,Drama,New,,$5.99,8,FALSE,FALSE,Standard
+SUB00291,2/25/24,Essential,US,Paid Social,Fire TV,25-34,Comedy,At-Risk,,$5.99,,TRUE,FALSE,Flag
+SUB00292,2/22/24,Annual,AU,Email Campaign,Smart TV,25-34,Drama,Winback,,$9.99,,FALSE,FALSE,Standard
+SUB00293,4/5/24,Essential,UK,Partner Bundle,Roku,55,Procedural,Churned,5/27/24,$5.99,4,FALSE,FALSE,Standard
+SUB00294,7/10/23,Essential,US,Organic Search,Smart TV,45-54,Thriller,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00295,1/1/22,Essential,US,Email Campaign,Fire TV,55,Drama,Active,,$5.99,6,TRUE,FALSE,Standard
+SUB00296,1/23/22,Essential,US,TV Ad,Roku,55,Thriller,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00297,1/18/23,Annual,US,Email Campaign,Tablet,35-44,Procedural,Churned,1/22/24,$9.99,,TRUE,FALSE,Standard
+SUB00298,1/20/24,Paramount+ with Showtime,UK,Paid Social,Fire TV,55,Drama,Reactivated,,$11.99,10,FALSE,TRUE,Standard
+SUB00299,8/17/22,Paramount+ with Showtime,CA,Referral,Fire TV,25-34,Thriller,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00300,12/20/23,Annual,US,Paid Social,Roku,35-44,Procedural,Reactivated,,$9.99,10,TRUE,FALSE,Standard
+SUB00301,10/17/23,Essential,UK,Referral,Mobile,45-54,Comedy,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00302,6/21/22,Paramount+ with Showtime,MX,Organic Search,Tablet,18-24,Drama,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00303,12/25/22,Essential,US,App Store,Desktop,18-24,Drama,Active,,$5.99,3,FALSE,FALSE,Standard
+SUB00304,5/20/23,Annual,AU,Organic Search,Desktop,35-44,Procedural,Reactivated,,$9.99,4,TRUE,FALSE,Standard
+SUB00305,4/8/23,Paramount+ with Showtime,US,Email Campaign,Tablet,18-24,Drama,New,,$11.99,,TRUE,TRUE,Standard
+SUB00306,6/28/24,Essential,US,Email Campaign,Roku,55,Thriller,Active,,$5.99,1,FALSE,FALSE,Standard
+SUB00307,11/1/23,Essential,US,Organic Search,Tablet,45-54,Drama,Active,,$5.99,7,FALSE,FALSE,Standard
+SUB00308,11/8/23,Essential,US,App Store,Roku,25-34,Drama,Active,,$5.99,3,TRUE,FALSE,Standard
+SUB00309,1/5/23,Paramount+ with Showtime,MX,Paid Social,Mobile,18-24,Reality,New,,$11.99,,FALSE,TRUE,Standard
+SUB00310,3/25/22,Paramount+ with Showtime,AU,App Store,Desktop,25-34,Drama,Active,,$11.99,2,FALSE,TRUE,High Value
+SUB00311,7/9/22,Paramount+ with Showtime,US,App Store,Mobile,35-44,Drama,Active,,$11.99,5,TRUE,TRUE,High Value
+SUB00312,5/7/24,Essential,US,Organic Search,Fire TV,18-24,Drama,Active,,$5.99,7,TRUE,FALSE,Standard
+SUB00313,7/21/23,Annual,AU,Partner Bundle,Fire TV,35-44,Thriller,New,,$9.99,10,TRUE,FALSE,Standard
+SUB00314,5/3/23,Essential,US,Organic Search,Desktop,35-44,Drama,Active,,$5.99,3,TRUE,FALSE,Standard
+SUB00315,4/7/24,Paramount+ with Showtime,US,Referral,Desktop,18-24,Drama,Active,,$11.99,3,FALSE,TRUE,High Value
+SUB00316,11/24/22,Essential,AU,Partner Bundle,Desktop,18-24,Drama,Reactivated,,$5.99,,FALSE,FALSE,Standard
+SUB00317,6/17/23,Annual,AU,Organic Search,Desktop,18-24,Procedural,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00318,4/19/22,Paramount+ with Showtime,UK,App Store,Tablet,18-24,Procedural,At-Risk,,$11.99,10,FALSE,TRUE,Flag
+SUB00319,2/8/22,Essential,AU,Organic Search,Desktop,35-44,Drama,Active,,$5.99,4,TRUE,FALSE,Standard
+SUB00320,2/3/24,Paramount+ with Showtime,US,Email Campaign,Tablet,35-44,Thriller,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00321,5/28/24,Essential,US,Email Campaign,Fire TV,18-24,Thriller,At-Risk,,$5.99,6,FALSE,FALSE,Flag
+SUB00322,1/17/24,Essential,US,App Store,Smart TV,55,Drama,Active,,$5.99,8,FALSE,FALSE,Standard
+SUB00323,4/20/24,Essential,CA,Referral,Roku,25-34,Procedural,New,,$5.99,,TRUE,FALSE,Standard
+SUB00324,6/27/22,Essential,US,Organic Search,Desktop,25-34,Drama,Active,,$5.99,4,FALSE,FALSE,Standard
+SUB00325,1/13/23,Essential,US,Paid Social,Tablet,35-44,Drama,Churned,10/28/23,$5.99,3,FALSE,FALSE,Standard
+SUB00326,8/24/23,Essential,CA,Referral,Fire TV,35-44,Procedural,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00327,2/20/22,Essential,US,Referral,Smart TV,45-54,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00328,6/10/23,Essential,MX,Paid Social,Fire TV,55,Drama,New,,$5.99,1,TRUE,FALSE,Standard
+SUB00329,9/16/22,Paramount+ with Showtime,AU,App Store,Tablet,35-44,Thriller,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00330,11/6/22,Paramount+ with Showtime,US,Organic Search,Roku,55,Drama,At-Risk,,$11.99,6,FALSE,TRUE,Flag
+SUB00331,11/2/22,Essential,UK,Email Campaign,Fire TV,45-54,Procedural,At-Risk,,$5.99,5,FALSE,FALSE,Flag
+SUB00332,7/12/22,Essential,AU,Referral,Tablet,25-34,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00333,11/3/23,Paramount+ with Showtime,AU,App Store,Desktop,35-44,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00334,12/18/22,Annual,MX,Referral,Tablet,55,Drama,Churned,9/1/23,$9.99,,TRUE,FALSE,Standard
+SUB00335,5/10/24,Essential,CA,Organic Search,Desktop,45-54,Procedural,At-Risk,,$5.99,9,TRUE,FALSE,Flag
+SUB00336,11/28/23,Essential,US,Email Campaign,Smart TV,55,Drama,Reactivated,,$5.99,7,FALSE,FALSE,Standard
+SUB00337,1/16/23,Paramount+ with Showtime,US,App Store,Mobile,35-44,Thriller,Active,,$11.99,10,TRUE,TRUE,High Value
+SUB00338,4/29/23,Essential,AU,Partner Bundle,Tablet,45-54,Animation,Reactivated,,$5.99,,TRUE,FALSE,Standard
+SUB00339,5/21/22,Paramount+ with Showtime,MX,Paid Social,Tablet,35-44,Thriller,Winback,,$11.99,2,FALSE,TRUE,Standard
+SUB00340,12/7/22,Paramount+ with Showtime,US,Organic Search,Desktop,25-34,Drama,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00341,8/14/23,Essential,AU,Referral,Desktop,18-24,Procedural,Churned,5/20/24,$5.99,8,FALSE,FALSE,Standard
+SUB00342,1/5/22,Paramount+ with Showtime,US,Email Campaign,Roku,25-34,Drama,New,,$11.99,,TRUE,TRUE,Standard
+SUB00343,10/4/23,Paramount+ with Showtime,CA,Paid Social,Mobile,55,Procedural,Churned,12/30/23,$11.99,5,TRUE,TRUE,Standard
+SUB00344,3/8/22,Paramount+ with Showtime,UK,App Store,Fire TV,35-44,Procedural,Churned,2/6/23,$11.99,,FALSE,TRUE,Standard
+SUB00345,1/3/23,Essential,US,Paid Social,Fire TV,35-44,Procedural,Churned,7/20/23,$5.99,,TRUE,FALSE,Standard
+SUB00346,8/27/23,Paramount+ with Showtime,US,App Store,Fire TV,25-34,Drama,Active,,$11.99,10,TRUE,TRUE,High Value
+SUB00347,9/1/23,Essential,US,Organic Search,Fire TV,55,Drama,Winback,,$5.99,7,TRUE,FALSE,Standard
+SUB00348,7/15/23,Essential,US,Referral,Fire TV,55,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00349,11/9/23,Paramount+ with Showtime,US,App Store,Mobile,45-54,Drama,Active,,$11.99,2,FALSE,TRUE,High Value
+SUB00350,4/27/22,Annual,US,TV Ad,Tablet,25-34,Drama,Churned,10/18/23,$9.99,4,FALSE,FALSE,Standard
+SUB00351,12/22/23,Essential,MX,Paid Social,Fire TV,25-34,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00352,1/14/22,Annual,MX,Paid Social,Mobile,25-34,Drama,At-Risk,,$9.99,2,FALSE,FALSE,Flag
+SUB00353,10/22/23,Paramount+ with Showtime,MX,Organic Search,Mobile,35-44,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00354,5/22/24,Paramount+ with Showtime,AU,Referral,Mobile,55,Drama,Active,,$11.99,1,TRUE,TRUE,High Value
+SUB00355,5/22/24,Essential,UK,Email Campaign,Desktop,55,Thriller,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00356,1/17/23,Paramount+ with Showtime,AU,App Store,Tablet,25-34,Drama,Churned,5/20/23,$11.99,,FALSE,TRUE,Standard
+SUB00357,3/30/24,Essential,US,Referral,Fire TV,25-34,Drama,Active,,$5.99,3,TRUE,FALSE,Standard
+SUB00358,3/3/23,Annual,MX,Paid Social,Roku,45-54,Procedural,Reactivated,,$9.99,10,TRUE,FALSE,Standard
+SUB00359,6/2/24,Essential,MX,App Store,Mobile,55,Drama,At-Risk,,$5.99,1,TRUE,FALSE,Flag
+SUB00360,9/25/22,Annual,US,Referral,Tablet,18-24,Drama,At-Risk,,$9.99,10,TRUE,FALSE,Flag
+SUB00361,3/20/23,Paramount+ with Showtime,UK,Referral,Fire TV,25-34,Drama,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00362,1/12/22,Annual,MX,TV Ad,Desktop,25-34,Thriller,At-Risk,,$9.99,,FALSE,FALSE,Flag
+SUB00363,11/25/22,Essential,US,Partner Bundle,Fire TV,35-44,Procedural,Active,,$5.99,4,TRUE,FALSE,Standard
+SUB00364,4/16/23,Paramount+ with Showtime,US,TV Ad,Desktop,45-54,Thriller,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00365,2/3/24,Paramount+ with Showtime,AU,Organic Search,Roku,18-24,Drama,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00366,3/21/24,Paramount+ with Showtime,US,Referral,Fire TV,55,Thriller,At-Risk,,$11.99,6,TRUE,TRUE,Flag
+SUB00367,4/16/24,Paramount+ with Showtime,MX,Referral,Fire TV,45-54,Drama,Active,,$11.99,2,TRUE,TRUE,High Value
+SUB00368,2/17/24,Paramount+ with Showtime,UK,TV Ad,Fire TV,18-24,Procedural,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00369,12/20/23,Paramount+ with Showtime,US,TV Ad,Fire TV,25-34,Drama,Active,,$11.99,2,FALSE,TRUE,High Value
+SUB00370,9/18/23,Paramount+ with Showtime,US,App Store,Smart TV,25-34,Drama,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00371,2/17/22,Annual,US,TV Ad,Desktop,55,Thriller,Reactivated,,$9.99,9,TRUE,FALSE,Standard
+SUB00372,5/26/23,Essential,AU,TV Ad,Roku,55,Drama,New,,$5.99,3,TRUE,FALSE,Standard
+SUB00373,1/19/24,Annual,UK,Partner Bundle,Desktop,35-44,Animation,Churned,3/15/24,$9.99,4,FALSE,FALSE,Standard
+SUB00374,2/12/23,Paramount+ with Showtime,US,Paid Social,Desktop,35-44,Thriller,Winback,,$11.99,9,FALSE,TRUE,Standard
+SUB00375,5/13/24,Annual,US,Paid Social,Smart TV,55,Thriller,Churned,6/22/24,$9.99,6,TRUE,FALSE,Standard
+SUB00376,12/29/23,Annual,UK,Referral,Mobile,25-34,Drama,At-Risk,,$9.99,,FALSE,FALSE,Flag
+SUB00377,8/20/23,Paramount+ with Showtime,CA,TV Ad,Desktop,55,Procedural,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00378,1/26/22,Essential,US,Email Campaign,Smart TV,18-24,Thriller,Active,,$5.99,3,TRUE,FALSE,Standard
+SUB00379,12/9/23,Essential,UK,TV Ad,Desktop,45-54,Drama,Churned,2/29/24,$5.99,9,TRUE,FALSE,Standard
+SUB00380,1/31/24,Essential,CA,Referral,Fire TV,35-44,Drama,At-Risk,,$5.99,7,FALSE,FALSE,Flag
+SUB00381,3/18/24,Annual,US,Organic Search,Fire TV,35-44,Drama,Winback,,$9.99,,FALSE,FALSE,Standard
+SUB00382,4/29/24,Paramount+ with Showtime,US,TV Ad,Fire TV,55,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00383,12/1/23,Annual,US,App Store,Mobile,25-34,Animation,New,,$9.99,,FALSE,FALSE,Standard
+SUB00384,5/14/22,Essential,UK,App Store,Fire TV,25-34,Procedural,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00385,9/4/23,Annual,CA,App Store,Roku,55,Drama,New,,$9.99,,FALSE,FALSE,Standard
+SUB00386,6/23/23,Annual,US,TV Ad,Roku,25-34,Drama,Active,,$9.99,9,FALSE,FALSE,Standard
+SUB00387,4/5/22,Paramount+ with Showtime,UK,Email Campaign,Tablet,25-34,Drama,Active,,$11.99,10,FALSE,TRUE,High Value
+SUB00388,7/29/23,Paramount+ with Showtime,MX,Paid Social,Fire TV,25-34,Thriller,Churned,9/1/23,$11.99,4,TRUE,TRUE,Standard
+SUB00389,11/30/23,Essential,AU,Email Campaign,Roku,35-44,Drama,Reactivated,,$5.99,,FALSE,FALSE,Standard
+SUB00390,6/11/23,Essential,CA,Referral,Smart TV,45-54,Procedural,Churned,2/24/24,$5.99,2,TRUE,FALSE,Standard
+SUB00391,3/2/24,Essential,US,Referral,Fire TV,18-24,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00392,5/5/24,Paramount+ with Showtime,US,Referral,Fire TV,45-54,Procedural,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00393,2/8/22,Essential,CA,Partner Bundle,Mobile,18-24,SciFi,New,,$5.99,5,FALSE,FALSE,Standard
+SUB00394,2/2/23,Paramount+ with Showtime,UK,Organic Search,Desktop,35-44,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00395,10/19/23,Annual,US,Referral,Mobile,55,Drama,Churned,12/4/23,$9.99,2,FALSE,FALSE,Standard
+SUB00396,3/16/24,Essential,CA,TV Ad,Desktop,55,Procedural,At-Risk,,$5.99,,TRUE,FALSE,Flag
+SUB00397,5/1/23,Essential,AU,TV Ad,Roku,25-34,Thriller,Active,,$5.99,3,FALSE,FALSE,Standard
+SUB00398,11/25/23,Paramount+ with Showtime,US,Partner Bundle,Roku,55,Procedural,Reactivated,,$11.99,,TRUE,TRUE,Standard
+SUB00399,8/10/23,Annual,US,Email Campaign,Smart TV,45-54,Drama,At-Risk,,$9.99,6,TRUE,FALSE,Flag
+SUB00400,2/27/23,Essential,US,Paid Social,Smart TV,45-54,Thriller,Reactivated,,$5.99,4,TRUE,FALSE,Standard
+SUB00401,7/5/22,Essential,MX,Referral,Roku,45-54,Procedural,At-Risk,,$5.99,,TRUE,FALSE,Flag
+SUB00402,9/14/22,Annual,MX,Email Campaign,Tablet,55,Procedural,New,,$9.99,4,TRUE,FALSE,Standard
+SUB00403,10/19/22,Paramount+ with Showtime,MX,App Store,Tablet,25-34,Thriller,At-Risk,,$11.99,10,TRUE,TRUE,Flag
+SUB00404,8/3/23,Paramount+ with Showtime,US,Organic Search,Tablet,35-44,Comedy,At-Risk,,$11.99,7,FALSE,TRUE,Flag
+SUB00405,5/10/24,Paramount+ with Showtime,MX,App Store,Desktop,55,Drama,Active,,$11.99,8,TRUE,TRUE,High Value
+SUB00406,6/29/22,Paramount+ with Showtime,US,Partner Bundle,Smart TV,18-24,Drama,At-Risk,,$11.99,2,TRUE,TRUE,Flag
+SUB00407,1/20/22,Annual,AU,TV Ad,Roku,18-24,Drama,Churned,11/27/23,$9.99,9,FALSE,FALSE,Standard
+SUB00408,7/11/23,Paramount+ with Showtime,US,Email Campaign,Desktop,45-54,Comedy,Reactivated,,$11.99,10,FALSE,TRUE,Standard
+SUB00409,5/18/22,Essential,AU,Email Campaign,Roku,45-54,Reality,Active,,$5.99,10,TRUE,FALSE,Standard
+SUB00410,2/15/24,Essential,US,Partner Bundle,Roku,45-54,Drama,Active,,$5.99,3,FALSE,FALSE,Standard
+SUB00411,1/3/23,Essential,US,Email Campaign,Tablet,45-54,Comedy,New,,$5.99,,TRUE,FALSE,Standard
+SUB00412,6/15/23,Paramount+ with Showtime,MX,App Store,Mobile,35-44,Drama,Reactivated,,$11.99,6,TRUE,TRUE,Standard
+SUB00413,12/22/23,Paramount+ with Showtime,CA,Partner Bundle,Roku,55,SciFi,Winback,,$11.99,,FALSE,TRUE,Standard
+SUB00414,1/10/23,Annual,CA,App Store,Smart TV,18-24,Drama,At-Risk,,$9.99,6,FALSE,FALSE,Flag
+SUB00415,3/22/24,Essential,US,App Store,Smart TV,55,Comedy,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00416,8/5/22,Paramount+ with Showtime,US,Referral,Smart TV,25-34,Animation,Active,,$11.99,2,FALSE,TRUE,High Value
+SUB00417,11/23/23,Annual,US,Referral,Desktop,25-34,Reality,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00418,8/11/23,Annual,US,Partner Bundle,Smart TV,25-34,Drama,At-Risk,,$9.99,,TRUE,FALSE,Flag
+SUB00419,6/14/23,Annual,US,Referral,Fire TV,55,Drama,Winback,,$9.99,2,TRUE,FALSE,Standard
+SUB00420,4/5/23,Paramount+ with Showtime,US,Paid Social,Desktop,45-54,Thriller,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00421,10/1/23,Essential,UK,App Store,Roku,25-34,SciFi,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00422,1/30/23,Essential,AU,TV Ad,Smart TV,18-24,Thriller,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00423,9/22/23,Annual,US,Organic Search,Desktop,45-54,Drama,At-Risk,,$9.99,,TRUE,FALSE,Flag
+SUB00424,3/4/24,Annual,AU,Email Campaign,Mobile,45-54,Drama,At-Risk,,$9.99,4,FALSE,FALSE,Flag
+SUB00425,3/19/24,Annual,US,App Store,Smart TV,55,Drama,Churned,6/1/24,$9.99,4,TRUE,FALSE,Standard
+SUB00426,10/18/22,Paramount+ with Showtime,CA,Paid Social,Mobile,45-54,Drama,At-Risk,,$11.99,1,TRUE,TRUE,Flag
+SUB00427,6/17/23,Essential,UK,App Store,Tablet,55,Drama,New,,$5.99,,FALSE,FALSE,Standard
+SUB00428,9/25/22,Annual,UK,Partner Bundle,Tablet,45-54,Drama,Reactivated,,$9.99,,TRUE,FALSE,Standard
+SUB00429,2/28/23,Paramount+ with Showtime,US,Email Campaign,Roku,45-54,Drama,At-Risk,,$11.99,5,FALSE,TRUE,Flag
+SUB00430,3/3/24,Essential,US,App Store,Fire TV,55,Drama,Churned,4/19/24,$5.99,,FALSE,FALSE,Standard
+SUB00431,3/15/24,Annual,US,Paid Social,Desktop,45-54,Drama,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00432,4/23/24,Paramount+ with Showtime,US,Organic Search,Tablet,55,Comedy,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00433,1/12/24,Annual,CA,Referral,Roku,35-44,Drama,Active,,$9.99,3,FALSE,FALSE,Standard
+SUB00434,3/26/23,Annual,CA,Paid Social,Mobile,55,Procedural,New,,$9.99,9,TRUE,FALSE,Standard
+SUB00435,9/22/23,Paramount+ with Showtime,US,Referral,Mobile,18-24,Drama,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00436,3/9/24,Paramount+ with Showtime,AU,Partner Bundle,Smart TV,55,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00437,4/3/22,Annual,UK,Email Campaign,Tablet,55,Comedy,Active,,$9.99,4,FALSE,FALSE,Standard
+SUB00438,2/18/23,Essential,AU,Partner Bundle,Mobile,25-34,Drama,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00439,12/15/22,Paramount+ with Showtime,CA,Referral,Desktop,45-54,Procedural,Reactivated,,$11.99,4,FALSE,TRUE,Standard
+SUB00440,3/5/24,Annual,US,App Store,Mobile,45-54,Drama,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00441,11/25/23,Paramount+ with Showtime,US,Referral,Tablet,35-44,Comedy,Churned,3/14/24,$11.99,,FALSE,TRUE,Standard
+SUB00442,11/21/23,Annual,US,App Store,Tablet,18-24,Drama,Churned,3/17/24,$9.99,,FALSE,FALSE,Standard
+SUB00443,7/7/22,Essential,MX,Referral,Smart TV,55,Comedy,Reactivated,,$5.99,5,TRUE,FALSE,Standard
+SUB00444,8/23/22,Annual,UK,Paid Social,Mobile,25-34,Drama,Active,,$9.99,8,TRUE,FALSE,Standard
+SUB00445,2/22/24,Paramount+ with Showtime,UK,Partner Bundle,Tablet,18-24,Drama,Reactivated,,$11.99,10,FALSE,TRUE,Standard
+SUB00446,5/18/23,Paramount+ with Showtime,AU,Paid Social,Roku,45-54,Procedural,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00447,5/5/23,Annual,UK,App Store,Fire TV,18-24,Drama,Reactivated,,$9.99,,TRUE,FALSE,Standard
+SUB00448,12/17/23,Essential,US,Referral,Smart TV,35-44,Procedural,Active,,$5.99,6,FALSE,FALSE,Standard
+SUB00449,9/20/23,Annual,CA,Paid Social,Tablet,25-34,Drama,Reactivated,,$9.99,6,FALSE,FALSE,Standard
+SUB00450,7/8/22,Paramount+ with Showtime,UK,Email Campaign,Desktop,25-34,Drama,Active,,$11.99,10,TRUE,TRUE,High Value
+SUB00451,8/13/23,Paramount+ with Showtime,US,Partner Bundle,Desktop,18-24,Thriller,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00452,3/30/24,Paramount+ with Showtime,US,Paid Social,Desktop,25-34,Drama,Winback,,$11.99,,FALSE,TRUE,Standard
+SUB00453,3/15/24,Annual,US,App Store,Mobile,25-34,Drama,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00454,4/13/24,Essential,MX,Referral,Tablet,55,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00455,12/19/22,Paramount+ with Showtime,US,Partner Bundle,Roku,25-34,Drama,New,,$11.99,3,FALSE,TRUE,Standard
+SUB00456,12/30/22,Paramount+ with Showtime,MX,Organic Search,Desktop,45-54,Thriller,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00457,6/8/24,Paramount+ with Showtime,AU,TV Ad,Mobile,35-44,Procedural,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00458,11/18/22,Paramount+ with Showtime,AU,Email Campaign,Desktop,35-44,Drama,Active,,$11.99,6,FALSE,TRUE,High Value
+SUB00459,2/28/23,Essential,US,Referral,Tablet,18-24,Drama,Active,,$5.99,2,TRUE,FALSE,Standard
+SUB00460,6/20/22,Essential,MX,Partner Bundle,Mobile,18-24,Reality,Active,,$5.99,9,TRUE,FALSE,Standard
+SUB00461,4/17/22,Essential,AU,Email Campaign,Smart TV,25-34,Comedy,Active,,$5.99,8,TRUE,FALSE,Standard
+SUB00462,5/15/22,Essential,US,Referral,Tablet,25-34,Thriller,Active,,$5.99,8,FALSE,FALSE,Standard
+SUB00463,6/10/24,Annual,MX,Paid Social,Fire TV,35-44,Drama,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00464,10/9/23,Paramount+ with Showtime,CA,Email Campaign,Desktop,45-54,Drama,Churned,6/19/24,$11.99,,TRUE,TRUE,Standard
+SUB00465,3/29/23,Paramount+ with Showtime,US,Email Campaign,Mobile,35-44,Reality,Active,,$11.99,3,FALSE,TRUE,High Value
+SUB00466,10/21/22,Paramount+ with Showtime,MX,Email Campaign,Mobile,18-24,Drama,Active,,$11.99,5,TRUE,TRUE,High Value
+SUB00467,3/26/24,Essential,AU,Partner Bundle,Desktop,35-44,Procedural,New,,$5.99,,FALSE,FALSE,Standard
+SUB00468,4/28/24,Essential,AU,Referral,Smart TV,25-34,Drama,Active,,$5.99,10,FALSE,FALSE,Standard
+SUB00469,10/19/22,Paramount+ with Showtime,AU,Paid Social,Mobile,45-54,Drama,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00470,10/15/23,Paramount+ with Showtime,MX,Paid Social,Tablet,45-54,Reality,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00471,7/10/22,Paramount+ with Showtime,US,Referral,Desktop,35-44,Drama,Winback,,$11.99,,TRUE,TRUE,Standard
+SUB00472,6/4/22,Paramount+ with Showtime,AU,Email Campaign,Desktop,25-34,Drama,New,,$11.99,1,FALSE,TRUE,Standard
+SUB00473,3/24/22,Paramount+ with Showtime,AU,Organic Search,Roku,18-24,Drama,Churned,9/19/22,$11.99,,FALSE,TRUE,Standard
+SUB00474,4/16/24,Essential,US,App Store,Desktop,18-24,Comedy,Active,,$5.99,1,TRUE,FALSE,Standard
+SUB00475,4/17/23,Essential,MX,App Store,Fire TV,45-54,Thriller,Churned,7/4/23,$5.99,3,TRUE,FALSE,Standard
+SUB00476,2/2/24,Essential,CA,App Store,Fire TV,45-54,Thriller,Reactivated,,$5.99,,TRUE,FALSE,Standard
+SUB00477,6/3/24,Essential,AU,Email Campaign,Mobile,25-34,Drama,At-Risk,,$5.99,10,TRUE,FALSE,Flag
+SUB00478,2/10/23,Annual,MX,Referral,Roku,18-24,Procedural,Churned,3/16/23,$9.99,,TRUE,FALSE,Standard
+SUB00479,9/12/22,Annual,UK,TV Ad,Fire TV,18-24,Drama,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00480,12/20/23,Essential,MX,Paid Social,Tablet,18-24,Drama,Active,,$5.99,6,FALSE,FALSE,Standard
+SUB00481,1/21/24,Paramount+ with Showtime,UK,Referral,Smart TV,55,Drama,Active,,$11.99,8,FALSE,TRUE,High Value
+SUB00482,7/27/23,Paramount+ with Showtime,US,Partner Bundle,Smart TV,55,Drama,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00483,10/9/22,Annual,US,Organic Search,Roku,55,Procedural,Reactivated,,$9.99,5,FALSE,FALSE,Standard
+SUB00484,4/10/23,Annual,AU,Referral,Smart TV,55,Drama,New,,$9.99,,FALSE,FALSE,Standard
+SUB00485,3/5/24,Essential,AU,Paid Social,Roku,35-44,Drama,At-Risk,,$5.99,9,TRUE,FALSE,Flag
+SUB00486,9/20/23,Paramount+ with Showtime,US,Organic Search,Roku,35-44,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00487,7/2/22,Essential,MX,Paid Social,Mobile,25-34,Drama,Reactivated,,$5.99,7,FALSE,FALSE,Standard
+SUB00488,6/23/23,Paramount+ with Showtime,US,Email Campaign,Smart TV,55,Thriller,At-Risk,,$11.99,1,TRUE,TRUE,Flag
+SUB00489,11/3/23,Paramount+ with Showtime,US,Email Campaign,Roku,18-24,Drama,Active,,$11.99,7,FALSE,TRUE,High Value
+SUB00490,3/24/24,Essential,US,TV Ad,Tablet,45-54,Procedural,Churned,5/27/24,$5.99,9,TRUE,FALSE,Standard
+SUB00491,4/14/22,Essential,US,Partner Bundle,Fire TV,35-44,Comedy,Churned,11/9/23,$5.99,3,FALSE,FALSE,Standard
+SUB00492,2/4/24,Annual,UK,Referral,Desktop,55,Drama,Active,,$9.99,2,TRUE,FALSE,Standard
+SUB00493,3/22/24,Annual,UK,Referral,Smart TV,35-44,Drama,Active,,$9.99,8,FALSE,FALSE,Standard
+SUB00494,11/19/22,Paramount+ with Showtime,AU,TV Ad,Fire TV,35-44,Animation,At-Risk,,$11.99,6,TRUE,TRUE,Flag
+SUB00495,7/31/23,Annual,CA,Email Campaign,Desktop,35-44,Thriller,Active,,$9.99,1,TRUE,FALSE,Standard
+SUB00496,10/19/22,Essential,CA,Organic Search,Tablet,45-54,Comedy,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00497,1/23/22,Annual,US,Organic Search,Mobile,35-44,Thriller,Churned,1/29/24,$9.99,,TRUE,FALSE,Standard
+SUB00498,9/29/22,Essential,US,Email Campaign,Tablet,55,Procedural,Active,,$5.99,10,TRUE,FALSE,Standard
+SUB00499,1/22/24,Paramount+ with Showtime,US,App Store,Fire TV,35-44,Drama,New,,$11.99,2,FALSE,TRUE,Standard
+SUB00500,2/8/22,Essential,US,TV Ad,Tablet,35-44,Drama,Churned,10/21/23,$5.99,7,FALSE,FALSE,Standard
+SUB00501,6/7/24,Annual,US,Referral,Fire TV,25-34,Procedural,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00502,11/23/22,Paramount+ with Showtime,US,Paid Social,Mobile,25-34,Drama,Active,,$11.99,7,FALSE,TRUE,High Value
+SUB00503,2/10/24,Essential,US,App Store,Tablet,45-54,Procedural,At-Risk,,$5.99,,TRUE,FALSE,Flag
+SUB00504,12/11/22,Essential,AU,Email Campaign,Mobile,45-54,Procedural,New,,$5.99,3,TRUE,FALSE,Standard
+SUB00505,5/8/23,Paramount+ with Showtime,US,Partner Bundle,Roku,45-54,Drama,At-Risk,,$11.99,4,TRUE,TRUE,Flag
+SUB00506,9/30/22,Annual,US,Organic Search,Fire TV,55,Animation,Churned,9/26/23,$9.99,6,TRUE,FALSE,Standard
+SUB00507,11/25/22,Essential,CA,Paid Social,Tablet,55,Thriller,Active,,$5.99,8,TRUE,FALSE,Standard
+SUB00508,3/28/23,Essential,UK,Paid Social,Fire TV,25-34,Thriller,New,,$5.99,,TRUE,FALSE,Standard
+SUB00509,9/6/22,Paramount+ with Showtime,US,Email Campaign,Fire TV,25-34,Procedural,Reactivated,,$11.99,,FALSE,TRUE,Standard
+SUB00510,4/28/23,Annual,US,Paid Social,Roku,25-34,Drama,New,,$9.99,9,FALSE,FALSE,Standard
+SUB00511,9/30/23,Essential,AU,Partner Bundle,Fire TV,55,Drama,Churned,12/5/23,$5.99,,TRUE,FALSE,Standard
+SUB00512,3/3/22,Annual,CA,Organic Search,Desktop,55,Drama,Active,,$9.99,2,FALSE,FALSE,Standard
+SUB00513,11/8/23,Paramount+ with Showtime,US,Organic Search,Tablet,55,Thriller,Active,,$11.99,7,TRUE,TRUE,High Value
+SUB00514,1/25/23,Essential,UK,App Store,Roku,55,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00515,5/28/23,Essential,US,Paid Social,Roku,45-54,Thriller,Winback,,$5.99,,FALSE,FALSE,Standard
+SUB00516,2/2/24,Paramount+ with Showtime,UK,Referral,Tablet,35-44,Comedy,Active,,$11.99,9,FALSE,TRUE,High Value
+SUB00517,4/11/24,Paramount+ with Showtime,US,Partner Bundle,Tablet,25-34,Comedy,New,,$11.99,,FALSE,TRUE,Standard
+SUB00518,11/4/23,Paramount+ with Showtime,US,App Store,Smart TV,55,SciFi,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00519,9/12/23,Essential,US,Referral,Smart TV,45-54,SciFi,Active,,$5.99,4,TRUE,FALSE,Standard
+SUB00520,11/13/22,Essential,AU,TV Ad,Smart TV,45-54,Drama,At-Risk,,$5.99,3,FALSE,FALSE,Flag
+SUB00521,3/11/22,Essential,US,Email Campaign,Smart TV,55,Drama,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00522,6/20/24,Paramount+ with Showtime,MX,Referral,Fire TV,35-44,Drama,Winback,,$11.99,,TRUE,TRUE,Standard
+SUB00523,4/20/22,Annual,CA,Partner Bundle,Roku,18-24,Thriller,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00524,8/25/22,Essential,MX,Paid Social,Roku,35-44,Thriller,At-Risk,,$5.99,6,TRUE,FALSE,Flag
+SUB00525,5/22/24,Essential,US,Paid Social,Smart TV,45-54,Drama,Active,,$5.99,1,FALSE,FALSE,Standard
+SUB00526,2/27/23,Essential,US,Organic Search,Smart TV,55,Thriller,Active,,$5.99,8,FALSE,FALSE,Standard
+SUB00527,6/6/24,Paramount+ with Showtime,AU,TV Ad,Mobile,25-34,Thriller,Active,,$11.99,7,FALSE,TRUE,High Value
+SUB00528,2/8/23,Annual,US,Partner Bundle,Mobile,55,Thriller,At-Risk,,$9.99,1,TRUE,FALSE,Flag
+SUB00529,6/16/23,Essential,AU,Partner Bundle,Fire TV,55,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00530,2/12/23,Paramount+ with Showtime,US,App Store,Tablet,35-44,Thriller,Reactivated,,$11.99,9,TRUE,TRUE,Standard
+SUB00531,4/20/23,Annual,US,Paid Social,Roku,18-24,Drama,Churned,1/6/24,$9.99,3,FALSE,FALSE,Standard
+SUB00532,2/28/23,Essential,MX,Partner Bundle,Fire TV,18-24,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00533,4/3/22,Essential,US,Organic Search,Mobile,55,Drama,Active,,$5.99,6,TRUE,FALSE,Standard
+SUB00534,6/21/23,Essential,AU,Partner Bundle,Desktop,55,Drama,Churned,4/7/24,$5.99,6,TRUE,FALSE,Standard
+SUB00535,6/16/22,Essential,AU,Email Campaign,Tablet,25-34,Drama,Reactivated,,$5.99,8,FALSE,FALSE,Standard
+SUB00536,10/4/23,Essential,US,Partner Bundle,Tablet,25-34,Reality,Active,,$5.99,8,TRUE,FALSE,Standard
+SUB00537,9/15/23,Essential,MX,App Store,Desktop,25-34,Thriller,Reactivated,,$5.99,,TRUE,FALSE,Standard
+SUB00538,9/8/22,Annual,US,Organic Search,Smart TV,35-44,Procedural,Reactivated,,$9.99,,FALSE,FALSE,Standard
+SUB00539,2/7/22,Annual,CA,Email Campaign,Mobile,18-24,Drama,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00540,6/15/22,Annual,US,App Store,Fire TV,55,SciFi,At-Risk,,$9.99,,TRUE,FALSE,Flag
+SUB00541,4/6/22,Paramount+ with Showtime,US,TV Ad,Desktop,35-44,Drama,Churned,4/1/23,$11.99,5,FALSE,TRUE,Standard
+SUB00542,5/18/22,Paramount+ with Showtime,AU,Partner Bundle,Smart TV,35-44,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00543,4/22/22,Annual,US,App Store,Fire TV,55,Drama,At-Risk,,$9.99,5,FALSE,FALSE,Flag
+SUB00544,9/16/23,Annual,UK,Paid Social,Roku,45-54,SciFi,Churned,2/25/24,$9.99,8,FALSE,FALSE,Standard
+SUB00545,4/7/24,Essential,CA,Paid Social,Mobile,55,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00546,1/26/24,Paramount+ with Showtime,AU,Organic Search,Tablet,55,Drama,Churned,6/6/24,$11.99,4,TRUE,TRUE,Standard
+SUB00547,10/18/23,Paramount+ with Showtime,US,Email Campaign,Tablet,35-44,Drama,Active,,$11.99,1,TRUE,TRUE,High Value
+SUB00548,12/4/23,Annual,US,TV Ad,Smart TV,35-44,Drama,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00549,11/20/23,Essential,US,App Store,Smart TV,45-54,Drama,Active,,$5.99,9,FALSE,FALSE,Standard
+SUB00550,4/19/23,Essential,CA,Partner Bundle,Fire TV,55,Drama,Churned,12/16/23,$5.99,,TRUE,FALSE,Standard
+SUB00551,8/2/22,Paramount+ with Showtime,US,Paid Social,Tablet,35-44,Drama,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00552,10/4/23,Annual,AU,Paid Social,Roku,25-34,Drama,Active,,$9.99,5,FALSE,FALSE,Standard
+SUB00553,12/28/23,Essential,MX,Paid Social,Tablet,35-44,Thriller,New,,$5.99,5,TRUE,FALSE,Standard
+SUB00554,6/22/23,Paramount+ with Showtime,US,TV Ad,Smart TV,25-34,Procedural,Active,,$11.99,1,FALSE,TRUE,High Value
+SUB00555,5/28/23,Paramount+ with Showtime,CA,TV Ad,Tablet,35-44,Procedural,Active,,$11.99,2,TRUE,TRUE,High Value
+SUB00556,7/30/22,Annual,US,Organic Search,Tablet,35-44,Drama,Churned,12/12/23,$9.99,10,TRUE,FALSE,Standard
+SUB00557,12/8/22,Essential,CA,Organic Search,Roku,18-24,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00558,11/25/22,Paramount+ with Showtime,UK,TV Ad,Desktop,35-44,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00559,6/11/22,Annual,US,Paid Social,Roku,18-24,Drama,Active,,$9.99,5,TRUE,FALSE,Standard
+SUB00560,12/23/23,Essential,US,Email Campaign,Roku,25-34,Drama,Churned,6/16/24,$5.99,,FALSE,FALSE,Standard
+SUB00561,2/21/22,Essential,US,App Store,Mobile,45-54,Procedural,Active,,$5.99,3,FALSE,FALSE,Standard
+SUB00562,9/24/23,Essential,US,TV Ad,Desktop,35-44,SciFi,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00563,4/10/22,Paramount+ with Showtime,MX,Paid Social,Smart TV,55,Procedural,Active,,$11.99,10,FALSE,TRUE,High Value
+SUB00564,1/8/23,Paramount+ with Showtime,UK,App Store,Desktop,55,Reality,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00565,12/26/22,Paramount+ with Showtime,UK,Partner Bundle,Roku,25-34,Procedural,Active,,$11.99,7,TRUE,TRUE,High Value
+SUB00566,11/30/22,Paramount+ with Showtime,MX,App Store,Roku,18-24,Animation,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00567,7/16/23,Paramount+ with Showtime,US,Email Campaign,Smart TV,45-54,Drama,Active,,$11.99,7,FALSE,TRUE,High Value
+SUB00568,8/4/23,Essential,US,Referral,Fire TV,55,Procedural,Churned,6/7/24,$5.99,10,FALSE,FALSE,Standard
+SUB00569,4/28/22,Paramount+ with Showtime,US,TV Ad,Desktop,45-54,Drama,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00570,3/13/22,Annual,AU,Email Campaign,Desktop,55,Drama,At-Risk,,$9.99,2,TRUE,FALSE,Flag
+SUB00571,4/16/24,Essential,US,Referral,Smart TV,55,Thriller,Active,,$5.99,7,FALSE,FALSE,Standard
+SUB00572,7/20/22,Paramount+ with Showtime,CA,App Store,Fire TV,35-44,Drama,Active,,$11.99,10,TRUE,TRUE,High Value
+SUB00573,9/19/23,Essential,CA,Organic Search,Tablet,35-44,Drama,Winback,,$5.99,1,TRUE,FALSE,Standard
+SUB00574,12/22/23,Essential,CA,TV Ad,Mobile,35-44,Comedy,At-Risk,,$5.99,10,FALSE,FALSE,Flag
+SUB00575,10/3/23,Paramount+ with Showtime,AU,App Store,Roku,35-44,Drama,Active,,$11.99,8,TRUE,TRUE,High Value
+SUB00576,7/12/22,Paramount+ with Showtime,US,Email Campaign,Fire TV,35-44,Procedural,At-Risk,,$11.99,,TRUE,TRUE,Flag
+SUB00577,10/26/23,Paramount+ with Showtime,AU,Paid Social,Mobile,55,Procedural,New,,$11.99,7,FALSE,TRUE,Standard
+SUB00578,3/18/24,Annual,US,App Store,Roku,45-54,Animation,At-Risk,,$9.99,8,FALSE,FALSE,Flag
+SUB00579,12/30/22,Annual,US,Partner Bundle,Desktop,45-54,Thriller,Active,,$9.99,9,FALSE,FALSE,Standard
+SUB00580,2/25/23,Paramount+ with Showtime,US,Organic Search,Roku,45-54,Drama,Reactivated,,$11.99,2,FALSE,TRUE,Standard
+SUB00581,12/9/23,Annual,CA,App Store,Roku,55,Procedural,New,,$9.99,10,TRUE,FALSE,Standard
+SUB00582,9/9/22,Essential,CA,Partner Bundle,Mobile,55,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00583,4/26/23,Annual,UK,App Store,Tablet,45-54,Procedural,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00584,2/6/22,Paramount+ with Showtime,CA,Organic Search,Fire TV,55,Drama,At-Risk,,$11.99,10,TRUE,TRUE,Flag
+SUB00585,11/4/23,Annual,US,Email Campaign,Desktop,55,Procedural,Winback,,$9.99,,TRUE,FALSE,Standard
+SUB00586,5/21/24,Annual,CA,Email Campaign,Tablet,25-34,Reality,Churned,6/24/24,$9.99,10,TRUE,FALSE,Standard
+SUB00587,8/29/23,Essential,CA,TV Ad,Fire TV,35-44,Comedy,Churned,5/13/24,$5.99,9,TRUE,FALSE,Standard
+SUB00588,12/18/22,Annual,US,TV Ad,Desktop,25-34,Drama,Winback,,$9.99,7,TRUE,FALSE,Standard
+SUB00589,11/8/23,Essential,US,Partner Bundle,Fire TV,55,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00590,2/13/24,Paramount+ with Showtime,AU,App Store,Tablet,25-34,Drama,Churned,3/20/24,$11.99,9,TRUE,TRUE,Standard
+SUB00591,1/24/23,Paramount+ with Showtime,CA,Paid Social,Roku,35-44,Thriller,At-Risk,,$11.99,5,FALSE,TRUE,Flag
+SUB00592,1/27/23,Essential,US,Partner Bundle,Fire TV,45-54,Drama,At-Risk,,$5.99,7,FALSE,FALSE,Flag
+SUB00593,12/10/22,Paramount+ with Showtime,AU,App Store,Fire TV,18-24,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00594,6/17/23,Essential,UK,Partner Bundle,Mobile,55,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00595,1/13/22,Essential,MX,Email Campaign,Smart TV,45-54,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00596,2/4/22,Essential,US,Partner Bundle,Fire TV,18-24,Drama,New,,$5.99,2,TRUE,FALSE,Standard
+SUB00597,5/26/24,Annual,US,Organic Search,Fire TV,35-44,Drama,At-Risk,,$9.99,,FALSE,FALSE,Flag
+SUB00598,11/8/23,Paramount+ with Showtime,CA,TV Ad,Desktop,55,Drama,Reactivated,,$11.99,6,FALSE,TRUE,Standard
+SUB00599,6/15/22,Paramount+ with Showtime,AU,Email Campaign,Mobile,18-24,Drama,Churned,4/24/23,$11.99,5,TRUE,TRUE,Standard
+SUB00600,3/28/23,Annual,AU,Paid Social,Fire TV,25-34,Drama,New,,$9.99,,FALSE,FALSE,Standard
+SUB00601,8/12/22,Paramount+ with Showtime,CA,Organic Search,Mobile,18-24,Procedural,At-Risk,,$11.99,,FALSE,TRUE,Flag
+SUB00602,3/6/24,Essential,US,Organic Search,Fire TV,45-54,Procedural,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00603,2/5/23,Paramount+ with Showtime,MX,App Store,Desktop,45-54,Thriller,At-Risk,,$11.99,2,TRUE,TRUE,Flag
+SUB00604,1/4/22,Paramount+ with Showtime,US,Partner Bundle,Roku,55,Drama,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00605,2/15/23,Essential,UK,Partner Bundle,Tablet,55,Procedural,New,,$5.99,5,TRUE,FALSE,Standard
+SUB00606,6/30/22,Essential,CA,Referral,Desktop,35-44,Drama,At-Risk,,$5.99,,FALSE,FALSE,Flag
+SUB00607,5/14/23,Paramount+ with Showtime,US,Paid Social,Mobile,55,Drama,New,,$11.99,,TRUE,TRUE,Standard
+SUB00608,5/16/23,Paramount+ with Showtime,MX,Partner Bundle,Desktop,45-54,Reality,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00609,12/12/22,Essential,US,TV Ad,Fire TV,35-44,Drama,Churned,2/23/23,$5.99,9,TRUE,FALSE,Standard
+SUB00610,1/29/24,Essential,US,App Store,Fire TV,18-24,Reality,At-Risk,,$5.99,10,TRUE,FALSE,Flag
+SUB00611,9/6/22,Essential,US,Email Campaign,Mobile,18-24,Thriller,Churned,2/16/23,$5.99,10,TRUE,FALSE,Standard
+SUB00612,4/17/24,Annual,US,Organic Search,Smart TV,45-54,Animation,Churned,5/24/24,$9.99,,FALSE,FALSE,Standard
+SUB00613,11/29/22,Annual,US,Email Campaign,Smart TV,55,Drama,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00614,12/10/22,Essential,AU,Paid Social,Fire TV,35-44,Drama,New,,$5.99,8,TRUE,FALSE,Standard
+SUB00615,8/19/23,Annual,AU,TV Ad,Smart TV,18-24,Reality,New,,$9.99,2,TRUE,FALSE,Standard
+SUB00616,1/8/22,Annual,CA,App Store,Fire TV,18-24,Procedural,Active,,$9.99,8,TRUE,FALSE,Standard
+SUB00617,7/31/22,Annual,MX,App Store,Smart TV,35-44,Drama,Active,,$9.99,1,TRUE,FALSE,Standard
+SUB00618,1/5/24,Paramount+ with Showtime,UK,App Store,Mobile,18-24,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00619,6/27/23,Paramount+ with Showtime,US,App Store,Fire TV,55,Drama,Winback,,$11.99,,TRUE,TRUE,Standard
+SUB00620,7/18/22,Paramount+ with Showtime,MX,Paid Social,Smart TV,25-34,Drama,Active,,$11.99,1,FALSE,TRUE,High Value
+SUB00621,10/19/22,Paramount+ with Showtime,MX,Organic Search,Mobile,25-34,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00622,6/11/22,Essential,US,Paid Social,Fire TV,45-54,Thriller,Churned,11/19/23,$5.99,6,FALSE,FALSE,Standard
+SUB00623,7/23/22,Essential,UK,Paid Social,Mobile,25-34,Comedy,Churned,7/21/23,$5.99,4,FALSE,FALSE,Standard
+SUB00624,8/14/22,Paramount+ with Showtime,US,App Store,Smart TV,55,Drama,New,,$11.99,8,TRUE,TRUE,Standard
+SUB00625,2/1/23,Essential,UK,Email Campaign,Smart TV,45-54,Procedural,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00626,10/15/22,Paramount+ with Showtime,AU,Paid Social,Tablet,45-54,Comedy,Active,,$11.99,10,TRUE,TRUE,High Value
+SUB00627,3/19/24,Annual,US,Organic Search,Desktop,45-54,Thriller,Churned,5/9/24,$9.99,4,FALSE,FALSE,Standard
+SUB00628,5/7/24,Paramount+ with Showtime,US,Paid Social,Tablet,18-24,Animation,Active,,$11.99,10,TRUE,TRUE,High Value
+SUB00629,8/11/23,Essential,US,App Store,Fire TV,35-44,Drama,Reactivated,,$5.99,7,FALSE,FALSE,Standard
+SUB00630,5/6/23,Paramount+ with Showtime,MX,Paid Social,Mobile,18-24,Drama,Churned,5/26/24,$11.99,7,TRUE,TRUE,Standard
+SUB00631,5/16/22,Essential,US,App Store,Fire TV,25-34,Thriller,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00632,5/28/24,Essential,MX,App Store,Smart TV,55,Thriller,At-Risk,,$5.99,3,FALSE,FALSE,Flag
+SUB00633,10/4/23,Essential,US,App Store,Fire TV,55,Procedural,Active,,$5.99,5,FALSE,FALSE,Standard
+SUB00634,2/10/24,Annual,US,TV Ad,Fire TV,55,Procedural,Active,,$9.99,6,TRUE,FALSE,Standard
+SUB00635,6/12/23,Paramount+ with Showtime,US,Organic Search,Desktop,55,Drama,Reactivated,,$11.99,1,FALSE,TRUE,Standard
+SUB00636,1/11/23,Essential,US,Paid Social,Tablet,45-54,Comedy,Active,,$5.99,8,TRUE,FALSE,Standard
+SUB00637,2/11/24,Paramount+ with Showtime,CA,Partner Bundle,Fire TV,35-44,Animation,Churned,4/9/24,$11.99,,TRUE,TRUE,Standard
+SUB00638,1/17/23,Annual,US,App Store,Fire TV,45-54,Drama,Active,,$9.99,9,FALSE,FALSE,Standard
+SUB00639,4/8/23,Essential,US,App Store,Mobile,55,Procedural,At-Risk,,$5.99,,TRUE,FALSE,Flag
+SUB00640,10/23/22,Essential,US,Email Campaign,Mobile,18-24,Drama,Winback,,$5.99,,TRUE,FALSE,Standard
+SUB00641,6/14/24,Essential,CA,App Store,Fire TV,55,Drama,Active,,$5.99,8,FALSE,FALSE,Standard
+SUB00642,3/7/23,Essential,CA,Paid Social,Mobile,55,Reality,Active,,$5.99,4,FALSE,FALSE,Standard
+SUB00643,2/26/23,Paramount+ with Showtime,MX,Partner Bundle,Fire TV,55,Drama,At-Risk,,$11.99,9,FALSE,TRUE,Flag
+SUB00644,4/14/23,Paramount+ with Showtime,US,TV Ad,Tablet,25-34,Comedy,Active,,$11.99,5,TRUE,TRUE,High Value
+SUB00645,6/1/22,Essential,US,Referral,Roku,45-54,Thriller,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00646,5/9/24,Essential,US,Organic Search,Mobile,25-34,Procedural,Churned,6/29/24,$5.99,8,FALSE,FALSE,Standard
+SUB00647,1/14/23,Essential,UK,Email Campaign,Smart TV,45-54,Drama,Active,,$5.99,3,FALSE,FALSE,Standard
+SUB00648,5/5/22,Paramount+ with Showtime,US,App Store,Tablet,35-44,Procedural,Reactivated,,$11.99,,FALSE,TRUE,Standard
+SUB00649,10/25/23,Annual,US,TV Ad,Roku,35-44,Drama,Churned,3/24/24,$9.99,8,FALSE,FALSE,Standard
+SUB00650,12/7/23,Essential,US,Referral,Roku,45-54,Drama,Active,,$5.99,,FALSE,FALSE,Standard
+SUB00651,9/25/23,Essential,UK,Organic Search,Roku,35-44,Drama,Churned,2/16/24,$5.99,,TRUE,FALSE,Standard
+SUB00652,3/11/24,Essential,US,Organic Search,Roku,35-44,Thriller,Reactivated,,$5.99,2,FALSE,FALSE,Standard
+SUB00653,7/19/22,Annual,US,Referral,Tablet,55,Procedural,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00654,1/14/23,Paramount+ with Showtime,UK,Email Campaign,Tablet,18-24,Thriller,Active,,$11.99,2,TRUE,TRUE,High Value
+SUB00655,1/16/24,Paramount+ with Showtime,MX,Email Campaign,Smart TV,55,Procedural,Reactivated,,$11.99,7,FALSE,TRUE,Standard
+SUB00656,5/23/22,Essential,US,Email Campaign,Desktop,18-24,Thriller,Churned,2/24/24,$5.99,6,TRUE,FALSE,Standard
+SUB00657,8/28/23,Paramount+ with Showtime,CA,App Store,Smart TV,18-24,Drama,Churned,11/11/23,$11.99,10,TRUE,TRUE,Standard
+SUB00658,7/24/22,Paramount+ with Showtime,MX,Organic Search,Tablet,35-44,Drama,Active,,$11.99,8,FALSE,TRUE,High Value
+SUB00659,8/18/22,Essential,CA,Email Campaign,Fire TV,18-24,Drama,New,,$5.99,2,FALSE,FALSE,Standard
+SUB00660,3/4/23,Essential,US,Organic Search,Tablet,55,Drama,Active,,$5.99,2,FALSE,FALSE,Standard
+SUB00661,8/19/23,Paramount+ with Showtime,MX,Referral,Mobile,45-54,Drama,Active,,$11.99,10,TRUE,TRUE,High Value
+SUB00662,5/15/24,Essential,US,Email Campaign,Desktop,55,Drama,Active,,$5.99,6,TRUE,FALSE,Standard
+SUB00663,2/24/22,Paramount+ with Showtime,US,Email Campaign,Tablet,35-44,Drama,Active,,$11.99,2,TRUE,TRUE,High Value
+SUB00664,2/24/24,Annual,US,Partner Bundle,Tablet,18-24,Thriller,At-Risk,,$9.99,,FALSE,FALSE,Flag
+SUB00665,10/5/22,Paramount+ with Showtime,US,Partner Bundle,Roku,55,Drama,At-Risk,,$11.99,1,TRUE,TRUE,Flag
+SUB00666,6/15/23,Paramount+ with Showtime,UK,Paid Social,Mobile,45-54,Drama,Active,,$11.99,,TRUE,TRUE,High Value
+SUB00667,5/1/24,Annual,US,App Store,Desktop,45-54,Procedural,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00668,1/18/22,Paramount+ with Showtime,US,TV Ad,Desktop,35-44,Drama,Active,,$11.99,9,FALSE,TRUE,High Value
+SUB00669,6/26/22,Essential,US,Paid Social,Fire TV,55,Procedural,Churned,8/24/22,$5.99,5,TRUE,FALSE,Standard
+SUB00670,8/3/22,Paramount+ with Showtime,US,Organic Search,Mobile,18-24,Drama,Active,,$11.99,7,TRUE,TRUE,High Value
+SUB00671,7/21/22,Annual,US,App Store,Mobile,55,Drama,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00672,11/15/23,Essential,US,Partner Bundle,Smart TV,18-24,Drama,New,,$5.99,1,TRUE,FALSE,Standard
+SUB00673,5/30/22,Paramount+ with Showtime,UK,Paid Social,Roku,55,Drama,Churned,4/9/23,$11.99,4,TRUE,TRUE,Standard
+SUB00674,4/12/22,Essential,US,Email Campaign,Smart TV,45-54,Drama,Churned,5/26/22,$5.99,1,TRUE,FALSE,Standard
+SUB00675,8/8/22,Paramount+ with Showtime,UK,Referral,Roku,55,Drama,Reactivated,,$11.99,2,TRUE,TRUE,Standard
+SUB00676,5/4/24,Paramount+ with Showtime,US,Partner Bundle,Smart TV,35-44,Animation,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00677,5/7/22,Essential,MX,TV Ad,Tablet,45-54,Drama,Active,,$5.99,,TRUE,FALSE,Standard
+SUB00678,3/26/22,Paramount+ with Showtime,CA,App Store,Roku,25-34,Drama,Active,,$11.99,,FALSE,TRUE,High Value
+SUB00679,8/20/22,Paramount+ with Showtime,US,TV Ad,Mobile,35-44,Drama,At-Risk,,$11.99,8,FALSE,TRUE,Flag
+SUB00680,7/3/22,Paramount+ with Showtime,US,App Store,Desktop,55,Drama,New,,$11.99,2,TRUE,TRUE,Standard
+SUB00681,5/27/22,Annual,US,Referral,Smart TV,55,Procedural,Active,,$9.99,,TRUE,FALSE,Standard
+SUB00682,12/13/22,Essential,US,TV Ad,Desktop,35-44,Drama,Active,,$5.99,10,FALSE,FALSE,Standard
+SUB00683,2/14/24,Paramount+ with Showtime,MX,Referral,Roku,35-44,Procedural,Churned,6/5/24,$11.99,9,FALSE,TRUE,Standard
+SUB00684,5/31/22,Paramount+ with Showtime,MX,App Store,Smart TV,25-34,Drama,Churned,10/18/22,$11.99,1,TRUE,TRUE,Standard
+SUB00685,1/26/24,Paramount+ with Showtime,US,Paid Social,Desktop,18-24,Thriller,New,,$11.99,3,FALSE,TRUE,Standard
+SUB00686,9/29/23,Annual,MX,TV Ad,Desktop,18-24,Drama,At-Risk,,$9.99,,FALSE,FALSE,Flag
+SUB00687,5/18/23,Paramount+ with Showtime,US,TV Ad,Mobile,45-54,Animation,Active,,$11.99,2,FALSE,TRUE,High Value
+SUB00688,4/6/23,Paramount+ with Showtime,MX,Organic Search,Mobile,35-44,Drama,Active,,$11.99,5,TRUE,TRUE,High Value
+SUB00689,5/19/23,Paramount+ with Showtime,MX,TV Ad,Mobile,35-44,SciFi,Active,,$11.99,9,FALSE,TRUE,High Value
+SUB00690,5/3/23,Annual,US,App Store,Tablet,25-34,Drama,At-Risk,,$9.99,7,FALSE,FALSE,Flag
+SUB00691,2/24/24,Essential,US,Partner Bundle,Mobile,35-44,Procedural,Winback,,$5.99,6,TRUE,FALSE,Standard
+SUB00692,2/23/24,Paramount+ with Showtime,US,App Store,Tablet,35-44,Drama,Reactivated,,$11.99,1,TRUE,TRUE,Standard
+SUB00693,9/11/22,Annual,US,Referral,Mobile,35-44,Thriller,Active,,$9.99,,FALSE,FALSE,Standard
+SUB00694,6/23/22,Essential,MX,Referral,Desktop,35-44,SciFi,New,,$5.99,7,FALSE,FALSE,Standard
+SUB00695,1/21/22,Essential,UK,App Store,Roku,55,Procedural,At-Risk,,$5.99,,TRUE,FALSE,Flag
+SUB00696,4/7/24,Essential,UK,App Store,Roku,55,Procedural,Active,,$5.99,6,TRUE,FALSE,Standard
+SUB00697,9/22/23,Essential,MX,Referral,Mobile,45-54,Drama,Active,,$5.99,4,FALSE,FALSE,Standard
+SUB00698,9/29/22,Paramount+ with Showtime,US,Partner Bundle,Fire TV,45-54,Procedural,New,,$11.99,10,TRUE,TRUE,Standard
+SUB00699,8/30/23,Annual,MX,App Store,Smart TV,18-24,Drama,Active,,$9.99,5,FALSE,FALSE,Standard
+SUB00700,3/20/23,Essential,AU,App Store,Tablet,35-44,Thriller,At-Risk,,$5.99,9,TRUE,FALSE,Flag
